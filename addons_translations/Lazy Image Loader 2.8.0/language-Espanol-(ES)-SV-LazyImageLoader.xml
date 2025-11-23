@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language title="Español (ES)" date_format="j M Y" date_short_format="M 'y" date_short_recent_format="M j" time_format="H:i" currency_format="{value}{symbol}" week_start="1" decimal_point="," thousands_separator="." label_separator=":" comma_separator=", " ellipsis="…" parenthesis_open="(" parenthesis_close=")" language_code="es-ES" text_direction="LTR" user_selectable="1" addon_id="SV/LazyImageLoader" base_version_id="1753377147" export_version="2">
+  <phrase title="option.svLazyLoader_BlankSvg" addon_id="SV/LazyImageLoader" version_id="2040100" version_string="2.4.1"><![CDATA[SVG en blanco]]></phrase>
+  <phrase title="option.svLazyLoader_EnableDefault" addon_id="SV/LazyImageLoader" version_id="2040100" version_string="2.4.1"><![CDATA[Habilitar fuera de temas/conversaciones]]></phrase>
+  <phrase title="option.svLazyLoader_ForceLazySpoilerTag" addon_id="SV/LazyImageLoader" version_id="2040100" version_string="2.4.1"><![CDATA[Forzar carga diferida de imágenes en spoilers]]></phrase>
+  <phrase title="option.svLazyLoader_Icons" addon_id="SV/LazyImageLoader" version_id="2040100" version_string="2.4.1"><![CDATA[Cargar iconos de forma diferida]]></phrase>
+  <phrase title="option.svLazyLoader_NativeMode" addon_id="SV/LazyImageLoader" version_id="2040100" version_string="2.4.1"><![CDATA[Usar carga diferida nativa]]></phrase>
+  <phrase title="option.svLazyLoader_PlaceholderUrl" addon_id="SV/LazyImageLoader" version_id="2040100" version_string="2.4.1"><![CDATA[Insertar SVG en blanco para adjuntos]]></phrase>
+  <phrase title="option_explain.svLazyLoader_BlankSvg" addon_id="SV/LazyImageLoader" version_id="2040100" version_string="2.4.1"><![CDATA[El SVG en blanco a insertar para adjuntos, donde {width}/{height} son valores reemplazables válidos.]]></phrase>
+  <phrase title="option_explain.svLazyLoader_EnableDefault" addon_id="SV/LazyImageLoader" version_id="2040100" version_string="2.4.1"><![CDATA[Por defecto, la carga diferida está desactivada fuera de los temas o conversaciones para áreas que usan BBCode.]]></phrase>
+  <phrase title="option_explain.svLazyLoader_ForceLazySpoilerTag" addon_id="SV/LazyImageLoader" version_id="2040100" version_string="2.4.1"><![CDATA[Ignora permisos y carga de forma diferida las imágenes en spoilers]]></phrase>
+  <phrase title="option_explain.svLazyLoader_Icons" addon_id="SV/LazyImageLoader" version_id="2040100" version_string="2.4.1"><![CDATA[Carga de forma diferida avatares de usuario, iconos de recursos e iconos de marcadores de temas.<br/>
+Esto usa la carga diferida nativa del navegador]]></phrase>
+  <phrase title="option_explain.svLazyLoader_NativeMode" addon_id="SV/LazyImageLoader" version_id="2040100" version_string="2.4.1"><![CDATA[Requiere un navegador moderno; de lo contrario, usa como respaldo código de una biblioteca JavaScript]]></phrase>
+  <phrase title="option_explain.svLazyLoader_PlaceholderUrl" addon_id="SV/LazyImageLoader" version_id="2040100" version_string="2.4.1"><![CDATA[Para evitar saltos, inserta un SVG inline con las mismas dimensiones que el adjunto]]></phrase>
+  <phrase title="option_group.svLazyLoader" addon_id="SV/LazyImageLoader" version_id="2040100" version_string="2.4.1"><![CDATA[Cargador de carga diferida de imágenes]]></phrase>
+  <phrase title="option_group_description.svLazyLoader" addon_id="SV/LazyImageLoader" version_id="2040100" version_string="2.4.1"><![CDATA[Menos carga.]]></phrase>
+  <phrase title="permission.conversation_sv_lazyload_enable" addon_id="SV/LazyImageLoader" version_id="2000000" version_string="2.0.0"><![CDATA[Carga diferida de imágenes]]></phrase>
+  <phrase title="permission.forum_sv_lazyload_enable" addon_id="SV/LazyImageLoader" version_id="2000000" version_string="2.0.0"><![CDATA[Carga diferida de imágenes]]></phrase>
+  <phrase title="style_prop.svLazyLoad" addon_id="SV/LazyImageLoader" version_id="2010600" version_string="2.1.6"><![CDATA[Carga diferida]]></phrase>
+  <phrase title="style_prop.svLazyLoaded" addon_id="SV/LazyImageLoader" version_id="2010600" version_string="2.1.6"><![CDATA[Carga diferida finalizada]]></phrase>
+  <phrase title="style_prop.svLazyLoading" addon_id="SV/LazyImageLoader" version_id="2010600" version_string="2.1.6"><![CDATA[Carga diferida en progreso]]></phrase>
+  <phrase title="style_prop_desc.svLazyLoad" addon_id="SV/LazyImageLoader" version_id="2010600" version_string="2.1.6"><![CDATA[Estilo para imágenes aún no cargadas]]></phrase>
+  <phrase title="style_prop_desc.svLazyLoaded" addon_id="SV/LazyImageLoader" version_id="2010600" version_string="2.1.6"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.svLazyLoading" addon_id="SV/LazyImageLoader" version_id="2010600" version_string="2.1.6"><![CDATA[]]></phrase>
+  <phrase title="style_prop_group.svLazyImageLoader" addon_id="SV/LazyImageLoader" version_id="2010600" version_string="2.1.6"><![CDATA[Cargador de carga diferida de imágenes]]></phrase>
+  <phrase title="style_prop_group_desc.svLazyImageLoader" addon_id="SV/LazyImageLoader" version_id="2010600" version_string="2.1.6"><![CDATA[]]></phrase>
+</language>

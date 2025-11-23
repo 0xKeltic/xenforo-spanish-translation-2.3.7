@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language title="Español (ES)" date_format="j M Y" date_short_format="M 'y" date_short_recent_format="M j" time_format="H:i" currency_format="{value}{symbol}" week_start="1" decimal_point="," thousands_separator="." label_separator=":" comma_separator=", " ellipsis="…" parenthesis_open="(" parenthesis_close=")" language_code="es-ES" text_direction="LTR" user_selectable="1" addon_id="SV/StandardLib" base_version_id="2001220600" export_version="2">
+  <phrase title="option.svLogLessFunc" addon_id="SV/StandardLib" version_id="1110001" version_string="1.11.0"><![CDATA[Standard Lib: Registrar información de depuración de parse_less_func]]></phrase>
+  <phrase title="option_explain.svLogLessFunc" addon_id="SV/StandardLib" version_id="1110001" version_string="1.11.0"><![CDATA[]]></phrase>
+  <phrase title="svChoices.addItemText" addon_id="SV/StandardLib" version_id="2001210006" version_string="1.21.0 RC6"><![CDATA[Pulsa Enter para añadir <b>{value}</b>]]></phrase>
+  <phrase title="svChoices.customAddItemText" addon_id="SV/StandardLib" version_id="2001210006" version_string="1.21.0 RC6"><![CDATA[Solo se pueden añadir valores que cumplan condiciones específicas]]></phrase>
+  <phrase title="svChoices.itemSelectText" addon_id="SV/StandardLib" version_id="2001210012" version_string="1.21.0 RC12"><![CDATA[]]></phrase>
+  <phrase title="svChoices.maxItemText" addon_id="SV/StandardLib" version_id="2001210006" version_string="1.21.0 RC6"><![CDATA[Solo se pueden añadir {maxItemCount} valores]]></phrase>
+  <phrase title="svChoices.removeItemLabel" addon_id="SV/StandardLib" version_id="2001210006" version_string="1.21.0 RC6"><![CDATA[Eliminar elemento: {value}]]></phrase>
+  <phrase title="svChoices.uniqueItemText" addon_id="SV/StandardLib" version_id="2001210006" version_string="1.21.0 RC6"><![CDATA[Solo se pueden añadir valores únicos]]></phrase>
+  <phrase title="svStandardLib_add_to_filters" addon_id="SV/StandardLib" version_id="1070300" version_string="1.7.3"><![CDATA[Añadir a filtros]]></phrase>
+  <phrase title="svStandardLib_at" addon_id="SV/StandardLib" version_id="1020101" version_string="1.2.1"><![CDATA[a]]></phrase>
+  <phrase title="svStandardLib_compiled_template_code" addon_id="SV/StandardLib" version_id="1040100" version_string="1.4.1"><![CDATA[Código de plantilla compilado]]></phrase>
+  <phrase title="svStandardLib_compiler_errors" addon_id="SV/StandardLib" version_id="1050000" version_string="1.5.0"><![CDATA[Errores de compilación]]></phrase>
+  <phrase title="svStandardLib_match_count_x" addon_id="SV/StandardLib" version_id="1040100" version_string="1.4.1"><![CDATA[Coincidencias: {count}]]></phrase>
+  <phrase title="svStandardLib_reload" addon_id="SV/StandardLib" version_id="1040100" version_string="1.4.1"><![CDATA[Recargar]]></phrase>
+  <phrase title="svStandardLib_remove_from_filters" addon_id="SV/StandardLib" version_id="1070300" version_string="1.7.3"><![CDATA[Quitar de filtros]]></phrase>
+  <phrase title="svStandardLib_requested_style_not_found" addon_id="SV/StandardLib" version_id="1040100" version_string="1.4.1"><![CDATA[No se pudo encontrar el estilo solicitado.]]></phrase>
+  <phrase title="svStandardLib_template_contents" addon_id="SV/StandardLib" version_id="1040100" version_string="1.4.1"><![CDATA[Contenido de la plantilla]]></phrase>
+  <phrase title="svStandardLib_timezone" addon_id="SV/StandardLib" version_id="1020101" version_string="1.2.1"><![CDATA[Zona horaria]]></phrase>
+  <phrase title="svStandardLib_view_x_template_modifications" addon_id="SV/StandardLib" version_id="1040100" version_string="1.4.1"><![CDATA[Ver {count} modificaciones de plantilla]]></phrase>
+  <phrase title="time.day" addon_id="SV/StandardLib" version_id="1030100" version_string="1.3.1"><![CDATA[{count} día(s)]]></phrase>
+  <phrase title="time.hour" addon_id="SV/StandardLib" version_id="1030100" version_string="1.3.1"><![CDATA[{count} hora(s)]]></phrase>
+  <phrase title="time.minute" addon_id="SV/StandardLib" version_id="1030100" version_string="1.3.1"><![CDATA[{count} minuto(s)]]></phrase>
+  <phrase title="time.month" addon_id="SV/StandardLib" version_id="1030100" version_string="1.3.1"><![CDATA[{count} mes(es)]]></phrase>
+  <phrase title="time.second" addon_id="SV/StandardLib" version_id="1030100" version_string="1.3.1"><![CDATA[{count} segundo(s)]]></phrase>
+  <phrase title="time.year" addon_id="SV/StandardLib" version_id="1030100" version_string="1.3.1"><![CDATA[{count} año(s)]]></phrase>
+</language>

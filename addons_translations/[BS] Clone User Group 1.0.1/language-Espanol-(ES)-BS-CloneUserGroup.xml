@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language title="Español (ES)" date_format="j M Y" date_short_format="M 'y" date_short_recent_format="M j" time_format="H:i" currency_format="{value}{symbol}" week_start="1" decimal_point="," thousands_separator="." label_separator=":" comma_separator=", " ellipsis="…" parenthesis_open="(" parenthesis_close=")" language_code="es-ES" text_direction="LTR" user_selectable="1" addon_id="BS/CloneUserGroup" base_version_id="1000170" export_version="2">
+  <phrase title="copy_user_group" addon_id="BS/CloneUserGroup" global_cache="1" version_id="1000070" version_string="1.0.0"><![CDATA[Copiar permisos del grupo de usuarios]]></phrase>
+</language>

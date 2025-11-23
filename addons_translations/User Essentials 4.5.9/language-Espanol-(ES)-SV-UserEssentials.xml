@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language title="Español (ES)" date_format="j M Y" date_short_format="M 'y" date_short_recent_format="M j" time_format="H:i" currency_format="{value}{symbol}" week_start="1" decimal_point="," thousands_separator="." label_separator=":" comma_separator=", " ellipsis="…" parenthesis_open="(" parenthesis_close=")" language_code="es-ES" text_direction="LTR" user_selectable="1" addon_id="SV/UserEssentials" base_version_id="1756837393" export_version="2">
+  <phrase title="admin_navigation.sv_ue_loginAttemptLog" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[Registro de intentos de inicio de sesión]]></phrase>
+  <phrase title="admin_navigation.sv_ue_userDisableLog" addon_id="SV/UserEssentials" version_id="3080000" version_string="3.8.0"><![CDATA[Registro de auto-desactivación de usuario]]></phrase>
+  <phrase title="admin_navigation.sv_ue_userLog" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[Registro de usuario]]></phrase>
+  <phrase title="alert_opt_out.user_username_change_approved" addon_id="SV/UserEssentials" version_id="4000000" version_string="4.0.0"><![CDATA[Tu cambio de nombre de usuario está aprobado]]></phrase>
+  <phrase title="alert_opt_out.user_username_change_approved_mod" addon_id="SV/UserEssentials" version_id="4000006" version_string="4.0.0 Beta 2"><![CDATA[El cambio de nombre de usuario de otro usuario está aprobado]]></phrase>
+  <phrase title="alert_opt_out.user_username_change_rejected" addon_id="SV/UserEssentials" version_id="4000006" version_string="4.0.0 Beta 2"><![CDATA[Tu cambio de nombre de usuario ha sido rechazado]]></phrase>
+  <phrase title="cron_entry.svUserEssUDR" addon_id="SV/UserEssentials" version_id="3090001" version_string="3.9.0"><![CDATA[[User Essentials] Enviar recordatorios de desactivación de usuario]]></phrase>
+  <phrase title="cron_entry.svUserEss_disableUsers" addon_id="SV/UserEssentials" version_id="3090001" version_string="3.9.0"><![CDATA[[User Essentials] Desactivar usuarios]]></phrase>
+  <phrase title="cron_entry.sv_ue_cleanUpDaily" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[Limpieza diaria (Esenciales de usuario)]]></phrase>
+  <phrase title="fake_deleted" addon_id="SV/UserEssentials" version_id="4020401" version_string="4.2.4"><![CDATA[Eliminado simulado]]></phrase>
+  <phrase title="option.svAlwaysLogModAction" addon_id="SV/UserEssentials" version_id="3040300" version_string="3.4.3"><![CDATA[Registrar siempre las acciones del moderador]]></phrase>
+  <phrase title="option.svCountRejectedUsernameChanges" addon_id="SV/UserEssentials" version_id="4020301" version_string="4.2.3"><![CDATA[Contar cambios de nombre de usuario rechazados en el período]]></phrase>
+  <phrase title="option.svCustomUpgradeMaximum" addon_id="SV/UserEssentials" version_id="3000012" version_string="3.0.0 Beta 2"><![CDATA[Cantidad máxima para mejora personalizada]]></phrase>
+  <phrase title="option.svCustomUpgradeMinimum" addon_id="SV/UserEssentials" version_id="3000012" version_string="3.0.0 Beta 2"><![CDATA[Cantidad mínima para mejora personalizada]]></phrase>
+  <phrase title="option.svDisplayMiniAvatars" addon_id="SV/UserEssentials" version_id="3000037" version_string="3.0.0 Beta 7"><![CDATA[Mostrar mini-avatares]]></phrase>
+  <phrase title="option.svOwnEditDeleteRespectTimeLimit" addon_id="SV/UserEssentials" version_id="3060100" version_string="3.6.1"><![CDATA[Respetar el límite de tiempo al editar/eliminar en el propio tema]]></phrase>
+  <phrase title="option.svPrivateUsernameChangeDefault" addon_id="SV/UserEssentials" version_id="1711684363" version_string="4.4.1"><![CDATA[Los cambios de nombre de usuario solicitados por el usuario son privados por defecto]]></phrase>
+  <phrase title="option.svSendEditedInMentions" addon_id="SV/UserEssentials" version_id="3000041" version_string="3.0.0 Beta 11"><![CDATA[Enviar "editado" en menciones]]></phrase>
+  <phrase title="option.svSupressClearSiteData" addon_id="SV/UserEssentials" version_id="3030900" version_string="3.3.9"><![CDATA[Suprimir encabezado "Clear-Site-Data"]]></phrase>
+  <phrase title="option.svUserEssDisableDelay" addon_id="SV/UserEssentials" version_id="3070002" version_string="3.7.0"><![CDATA[Retraso de auto-desactivación tras enviar el recordatorio]]></phrase>
+  <phrase title="option.svUserEssDisableReminderDelay" addon_id="SV/UserEssentials" version_id="3070002" version_string="3.7.0"><![CDATA[Recordatorio de auto-desactivación tras la solicitud]]></phrase>
+  <phrase title="option.svUserEssOnDisableAddUserGroups" addon_id="SV/UserEssentials" version_id="3070002" version_string="3.7.0"><![CDATA[Añadir grupo de usuarios al auto-desactivar]]></phrase>
+  <phrase title="option.svUserEssOnDisableBanEmail" addon_id="SV/UserEssentials" version_id="3070002" version_string="3.7.0"><![CDATA[Bloquear email al auto-desactivar]]></phrase>
+  <phrase title="option.svUserEssOnDisableDisplayAsDeleted" addon_id="SV/UserEssentials" version_id="4000800" version_string="4.0.8"><![CDATA[Hace que el nombre del usuario se muestre como eliminado al auto-desactivar]]></phrase>
+  <phrase title="option.svUserEssOnDisableRemoveAbout" addon_id="SV/UserEssentials" version_id="3070002" version_string="3.7.0"><![CDATA[Eliminar el campo "Acerca de" al auto-desactivar]]></phrase>
+  <phrase title="option.svUserEssOnDisableRemoveAvatar" addon_id="SV/UserEssentials" version_id="4020401" version_string="4.2.4"><![CDATA[Eliminar avatar]]></phrase>
+  <phrase title="option.svUserEssOnDisableRemoveDOB" addon_id="SV/UserEssentials" version_id="3070002" version_string="3.7.0"><![CDATA[Eliminar fecha de nacimiento al auto-desactivar]]></phrase>
+  <phrase title="option.svUserEssOnDisableRemoveEmail" addon_id="SV/UserEssentials" version_id="3070002" version_string="3.7.0"><![CDATA[Eliminar email al auto-desactivar]]></phrase>
+  <phrase title="option.svUserEssOnDisableRemoveLocation" addon_id="SV/UserEssentials" version_id="3070002" version_string="3.7.0"><![CDATA[Eliminar ubicación al auto-desactivar]]></phrase>
+  <phrase title="option.svUserEssOnDisableRemovePCF" addon_id="SV/UserEssentials" version_id="3070002" version_string="3.7.0"><![CDATA[Borrar campos personalizados visibles públicamente al auto-desactivar]]></phrase>
+  <phrase title="option.svUserEssOnDisableRemovePassword" addon_id="SV/UserEssentials" version_id="3070002" version_string="3.7.0"><![CDATA[Eliminar contraseña al auto-desactivar]]></phrase>
+  <phrase title="option.svUserEssOnDisableRemoveProfileBanner" addon_id="SV/UserEssentials" version_id="4020401" version_string="4.2.4"><![CDATA[Eliminar banner de perfil]]></phrase>
+  <phrase title="option.svUserEssOnDisableRemoveWebsite" addon_id="SV/UserEssentials" version_id="3070002" version_string="3.7.0"><![CDATA[Eliminar el campo sitio web al auto-desactivar]]></phrase>
+  <phrase title="option.svUserEssOnDisableRenameAway" addon_id="SV/UserEssentials" version_id="3070002" version_string="3.7.0"><![CDATA[Anonimizar nombre de usuario al auto-desactivar]]></phrase>
+  <phrase title="option.svUserEssOnDisableUpdatePrivacy" addon_id="SV/UserEssentials" version_id="3070002" version_string="3.7.0"><![CDATA[Actualizar la configuración de privacidad a la más restrictiva al auto-desactivar]]></phrase>
+  <phrase title="option.svUserEssPermissionedVisibility" addon_id="SV/UserEssentials" version_id="3022000" version_string="3.2.20"><![CDATA[Habilitar la función de permiso "[UserEss] Ocultar estado en línea"]]></phrase>
+  <phrase title="option.svUserEssRepeatDisableDelay" addon_id="SV/UserEssentials" version_id="3070002" version_string="3.7.0"><![CDATA[Tiempo mínimo entre solicitudes de auto-desactivación]]></phrase>
+  <phrase title="option.svUserEssentialsBlockNonUserUnlock" addon_id="SV/UserEssentials" version_id="3040200" version_string="3.4.2"><![CDATA[Bloquear que los usuarios desbloqueen su propio tema bloqueado por un moderador]]></phrase>
+  <phrase title="option.svUserEssentialsDisableNotDeleteUser" addon_id="SV/UserEssentials" version_id="4000800" version_string="4.0.8"><![CDATA[Desactivar usuario en lugar de eliminar]]></phrase>
+  <phrase title="option.svUserEssentialsThreadStartPermsDefaults" addon_id="SV/UserEssentials" version_id="3040200" version_string="3.4.2"><![CDATA[Valores por defecto de permisos del creador de temas]]></phrase>
+  <phrase title="option.uncAllowPreviousNames" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[Permitir reutilizar nombres de usuario antiguos]]></phrase>
+  <phrase title="option.uncDisplayChangesViaACP" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[Mostrar cambios de nombre de usuario del administrador en la lista de nombres anteriores]]></phrase>
+  <phrase title="option.uncMaxChanges" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[Máximo de cambios de nombre de usuario]]></phrase>
+  <phrase title="option.uncMaxPostCount" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[Máximo de mensajes para cambios de nombre de usuario]]></phrase>
+  <phrase title="option.uncModerateAlert" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[Notificar a moderadores los cambios de nombre de usuario]]></phrase>
+  <phrase title="option.uncRequirePassword" addon_id="SV/UserEssentials" version_id="3050100" version_string="3.5.1"><![CDATA[Requerir verificación de contraseña para cambios de nombre de usuario]]></phrase>
+  <phrase title="option.uncResetDays" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[Intervalo de cambio de nombre de usuario]]></phrase>
+  <phrase title="option.useressDisplayProfileTab" addon_id="SV/UserEssentials" version_id="4000700" version_string="4.0.7"><![CDATA[Mostrar nombres de usuario anteriores a]]></phrase>
+  <phrase title="option.useressLastEditedByPosition" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[Alineación del mensaje de última edición]]></phrase>
+  <phrase title="option.useressLogLength" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[Longitud del registro de usuario]]></phrase>
+  <phrase title="option.useressPostEditHistory" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[Historial de edición de mensajes]]></phrase>
+  <phrase title="option.useressPostEditMinChars" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[Mínimo de caracteres para editar mensajes]]></phrase>
+  <phrase title="option.useressPreventPrimaryGroupChange" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[Evitar que los administradores cambien el grupo primario]]></phrase>
+  <phrase title="option.useress_acp_unc_notices_default" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[Enviar por defecto notificaciones de cambio de nombre de usuario al editar por el administrador]]></phrase>
+  <phrase title="option.useress_acp_unc_private_default" addon_id="SV/UserEssentials" version_id="3000041" version_string="3.0.0 Beta 11"><![CDATA[Privado por defecto para cambio de nombre de usuario al editar el administrador]]></phrase>
+  <phrase title="option.useress_conversationWrapper" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[Envolver páginas del área de conversación en el contenedor de cuenta]]></phrase>
+  <phrase title="option.useress_notmatchregex" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[El nombre de usuario no coincide con la expresión regular]]></phrase>
+  <phrase title="option.useress_watchedWrapper" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[Envolver páginas de contenido seguido en el contenedor de cuenta]]></phrase>
+  <phrase title="option_explain.svAlwaysLogModAction" addon_id="SV/UserEssentials" version_id="3040300" version_string="3.4.3"><![CDATA[Aunque un usuario no sea moderador, forzar siempre el registro de acciones de moderación]]></phrase>
+  <phrase title="option_explain.svCountRejectedUsernameChanges" addon_id="SV/UserEssentials" version_id="4020301" version_string="4.2.3"><![CDATA[]]></phrase>
+  <phrase title="option_explain.svCustomUpgradeMaximum" addon_id="SV/UserEssentials" version_id="3000012" version_string="3.0.0 Beta 2"><![CDATA[El valor máximo aceptado para una cantidad de mejora personalizada.<br/>
+<br/>
+Este máximo no es arbitrario; algunos proveedores de pago dan error en valores superiores a 999.99]]></phrase>
+  <phrase title="option_explain.svCustomUpgradeMinimum" addon_id="SV/UserEssentials" version_id="3000012" version_string="3.0.0 Beta 2"><![CDATA[El valor mínimo aceptado para una cantidad de mejora personalizada]]></phrase>
+  <phrase title="option_explain.svDisplayMiniAvatars" addon_id="SV/UserEssentials" version_id="3000037" version_string="3.0.0 Beta 7"><![CDATA[Mostrar mini-avatares junto a una mención de usuario o de grupo de usuarios. Añade 1 consulta extra por carga de página para el contenido que admite mini-avatares.]]></phrase>
+  <phrase title="option_explain.svOwnEditDeleteRespectTimeLimit" addon_id="SV/UserEssentials" version_id="3060100" version_string="3.6.1"><![CDATA[Hace que "[UserEss] Editar mensajes en el propio tema" y "[UserEss] Eliminar mensajes en el propio tema" respeten el permiso "Límite de tiempo para editar/eliminar mensajes propios (minutos)".]]></phrase>
+  <phrase title="option_explain.svPrivateUsernameChangeDefault" addon_id="SV/UserEssentials" version_id="1711684363" version_string="4.4.1"><![CDATA[]]></phrase>
+  <phrase title="option_explain.svSendEditedInMentions" addon_id="SV/UserEssentials" version_id="3000041" version_string="3.0.0 Beta 11"><![CDATA[Si está habilitado, envía "editado" en menciones para el contenido compatible. Requiere reconstruir el seguimiento de menciones para nuevas instalaciones.<br>
+Ejecuta: <pre style="margin: 1em 2em">php cmd.php xf-rebuild:sv-mentions</pre>, y una vez complete, esta configuración se habilitará.<br/>
+Si esta configuración se habilita en nuevas instalaciones sin ejecutar lo anterior, se enviarán alertas duplicadas inesperadas al editar contenido con una cita o mención.]]></phrase>
+  <phrase title="option_explain.svSupressClearSiteData" addon_id="SV/UserEssentials" version_id="1747087245" version_string="4.5.7"><![CDATA[Este encabezado hace que Chrome (y posiblemente otros navegadores) vacíe agresivamente las cachés del contenido tocado por una sesión. Esto puede causar grandes ralentizaciones, y algunas versiones móviles no lo gestionan adecuadamente.]]></phrase>
+  <phrase title="option_explain.svUserEssDisableDelay" addon_id="SV/UserEssentials" version_id="3080004" version_string="3.8.0rc4"><![CDATA[Número de días antes de que el usuario sea desactivado tras enviar el recordatorio; antes de que expire este período el usuario puede cancelar su solicitud de auto-desactivación.<br/>
+0 para aplicar inmediatamente; afecta a auto-desactivaciones pendientes existentes.]]></phrase>
+  <phrase title="option_explain.svUserEssDisableReminderDelay" addon_id="SV/UserEssentials" version_id="3070002" version_string="3.7.0"><![CDATA[0 para desactivar; afecta a auto-desactivaciones pendientes existentes.]]></phrase>
+  <phrase title="option_explain.svUserEssOnDisableAddUserGroups" addon_id="SV/UserEssentials" version_id="3070002" version_string="3.7.0"><![CDATA[]]></phrase>
+  <phrase title="option_explain.svUserEssOnDisableBanEmail" addon_id="SV/UserEssentials" version_id="3070002" version_string="3.7.0"><![CDATA[]]></phrase>
+  <phrase title="option_explain.svUserEssOnDisableDisplayAsDeleted" addon_id="SV/UserEssentials" version_id="4000800" version_string="4.0.8"><![CDATA[]]></phrase>
+  <phrase title="option_explain.svUserEssOnDisableRemoveAbout" addon_id="SV/UserEssentials" version_id="3070002" version_string="3.7.0"><![CDATA[]]></phrase>
+  <phrase title="option_explain.svUserEssOnDisableRemoveAvatar" addon_id="SV/UserEssentials" version_id="4020401" version_string="4.2.4"><![CDATA[]]></phrase>
+  <phrase title="option_explain.svUserEssOnDisableRemoveDOB" addon_id="SV/UserEssentials" version_id="3070002" version_string="3.7.0"><![CDATA[]]></phrase>
+  <phrase title="option_explain.svUserEssOnDisableRemoveEmail" addon_id="SV/UserEssentials" version_id="3070002" version_string="3.7.0"><![CDATA[]]></phrase>
+  <phrase title="option_explain.svUserEssOnDisableRemoveLocation" addon_id="SV/UserEssentials" version_id="3070002" version_string="3.7.0"><![CDATA[]]></phrase>
+  <phrase title="option_explain.svUserEssOnDisableRemovePCF" addon_id="SV/UserEssentials" version_id="3070002" version_string="3.7.0"><![CDATA[]]></phrase>
+  <phrase title="option_explain.svUserEssOnDisableRemovePassword" addon_id="SV/UserEssentials" version_id="3070002" version_string="3.7.0"><![CDATA[]]></phrase>
+  <phrase title="option_explain.svUserEssOnDisableRemoveProfileBanner" addon_id="SV/UserEssentials" version_id="4020401" version_string="4.2.4"><![CDATA[]]></phrase>
+  <phrase title="option_explain.svUserEssOnDisableRemoveWebsite" addon_id="SV/UserEssentials" version_id="3070002" version_string="3.7.0"><![CDATA[]]></phrase>
+  <phrase title="option_explain.svUserEssOnDisableRenameAway" addon_id="SV/UserEssentials" version_id="3070002" version_string="3.7.0"><![CDATA[]]></phrase>
+  <phrase title="option_explain.svUserEssOnDisableUpdatePrivacy" addon_id="SV/UserEssentials" version_id="3070002" version_string="3.7.0"><![CDATA[]]></phrase>
+  <phrase title="option_explain.svUserEssPermissionedVisibility" addon_id="SV/UserEssentials" version_id="3022000" version_string="3.2.20"><![CDATA[La función "Ocultar estado en línea" requiere comprobaciones adicionales de permisos de contenido-usuario para determinar si debe respetarse la visibilidad. Esto puede añadir una consulta adicional por página.]]></phrase>
+  <phrase title="option_explain.svUserEssRepeatDisableDelay" addon_id="SV/UserEssentials" version_id="3070002" version_string="3.7.0"><![CDATA[0 para desactivar]]></phrase>
+  <phrase title="option_explain.svUserEssentialsBlockNonUserUnlock" addon_id="SV/UserEssentials" version_id="3040200" version_string="3.4.2"><![CDATA[]]></phrase>
+  <phrase title="option_explain.svUserEssentialsDisableNotDeleteUser" addon_id="SV/UserEssentials" version_id="4000800" version_string="4.0.8"><![CDATA[Eliminar un usuario destruye metadatos y dificulta rastrearlo más adelante. Casi siempre es mejor establecer al usuario como rechazado y/o renombrarlo.]]></phrase>
+  <phrase title="option_explain.svUserEssentialsThreadStartPermsDefaults" addon_id="SV/UserEssentials" version_id="4010002" version_string="4.1.0"><![CDATA[¡Los cambios afectarán a cualquier tema que no haya sido configurado explícitamente!]]></phrase>
+  <phrase title="option_explain.uncAllowPreviousNames" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[Si está habilitado, los usuarios podrán registrarse y cambiar su nombre de usuario a uno previamente usado por otro miembro. Permitir reutilizar nombres puede causar confusión, especialmente en mensajes citados antiguos. Esta restricción no aplica a creación y edición de usuarios por administradores.]]></phrase>
+  <phrase title="option_explain.uncDisplayChangesViaACP" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[Si está habilitado, los cambios de nombre aplicados por administradores se mostrarán en la lista de nombres anteriores de un usuario.]]></phrase>
+  <phrase title="option_explain.uncMaxChanges" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[El número máximo de veces que un usuario puede cambiar su nombre. Usa 0 para desactivar.]]></phrase>
+  <phrase title="option_explain.uncMaxPostCount" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[El número máximo de mensajes que puede tener un usuario antes de no poder cambiar su nombre. Si se establece, esta opción sobrescribe la opción de máximo de cambios de nombre. Usa 0 para desactivar.]]></phrase>
+  <phrase title="option_explain.uncModerateAlert" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[Si está habilitado, se notificará a los moderadores cuando ocurra un cambio de nombre de usuario.]]></phrase>
+  <phrase title="option_explain.uncRequirePassword" addon_id="SV/UserEssentials" version_id="3050100" version_string="3.5.1"><![CDATA[Si está habilitado, los cambios de nombre de usuario requieren que el usuario vuelva a introducir su contraseña]]></phrase>
+  <phrase title="option_explain.uncResetDays" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[Los usuarios no podrán realizar más del número máximo de cambios de nombre dentro de este número de días.<br />Por ejemplo, un máximo de 1 cambio cada 7 días. Para que el máximo sea permanente, usa 0 para desactivar.]]></phrase>
+  <phrase title="option_explain.useressDisplayProfileTab" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[Esta opción controla quién podrá ver los nombres de usuario anteriores de un usuario.]]></phrase>
+  <phrase title="option_explain.useressLastEditedByPosition" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[Controls which side of a post the last edit message is aligned to.]]></phrase>
+  <phrase title="option_explain.useressLogLength" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[The number of days that user log records will be kept for. Use 0 to keep the records permanently.]]></phrase>
+  <phrase title="option_explain.useressPostEditHistory" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[Do you want to keep track of message content with each post edit?<br />Selecting "Yes" will save a copy of each post prior to it being edited, thus allowing you to view the pre-edited version via the <i>Last edited by</i> link.<br />This will slightly increase the amount of disk space used.]]></phrase>
+  <phrase title="option_explain.useressPostEditMinChars" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[Minimum number of characters (including BB Code) that need to be added to or removed from the message, or changed within words (line swaps), in order to trigger the logging of the edit post action. This allows for the correction of spelling mistakes or grammatical errors without considering the post as edited. Zero (0) means the action will always be logged (after taking the Grace Period permission into consideration).]]></phrase>
+  <phrase title="option_explain.useressPreventPrimaryGroupChange" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[Depending on the permissions scheme, changing the primary user group breaks accounts and should not be done.]]></phrase>
+  <phrase title="option_explain.useress_acp_unc_notices_default" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[If enabled, notifications will be sent when an administrator manually edits a member's username by default. Administrators can override this setting when editing a user.]]></phrase>
+  <phrase title="option_explain.useress_acp_unc_private_default" addon_id="SV/UserEssentials" version_id="3000041" version_string="3.0.0 Beta 11"><![CDATA[If enabled, username changes triggered by an admin will be private by default. Administrators can override this setting when editing a user.]]></phrase>
+  <phrase title="option_explain.useress_conversationWrapper" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[If enabled, the conversation area will be wrapped in the account wrapper.]]></phrase>
+  <phrase title="option_explain.useress_notmatchregex" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[This requires usernames to <strong>not</strong> match the given <a href="http://www.regular-expressions.info/tutorial.html">regular expression</a>. <strong>Note:</strong> use a full expression, including delimiters and switches.]]></phrase>
+  <phrase title="option_explain.useress_watchedWrapper" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[If enabled, watched content pages will be wrapped in the account wrapper.]]></phrase>
+  <phrase title="option_group.sv_ue" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[User Essentials]]></phrase>
+  <phrase title="option_group_description.sv_ue" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[Options that control the behavior of username changes, user logging, and more.]]></phrase>
+  <phrase title="permission.forum_createPoll" addon_id="SV/UserEssentials" version_id="3000035" version_string="3.0.0 Beta 5"><![CDATA[[UserEss] Create polls]]></phrase>
+  <phrase title="permission.forum_editAnyThread" addon_id="SV/UserEssentials" version_id="3050100" version_string="3.5.1"><![CDATA[[UserEss] Edit any thread]]></phrase>
+  <phrase title="permission.forum_editOwnThreadTitleLimit" addon_id="SV/UserEssentials" version_id="3080800" version_string="3.8.8"><![CDATA[[UserEss] Time limit on editing own thread (minutes)]]></phrase>
+  <phrase title="permission.forum_lockUnlockOwnThread" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[[UserEss] Lock / unlock own thread]]></phrase>
+  <phrase title="permission.forum_userEssDeletePollOwnThrea" addon_id="SV/UserEssentials" version_id="3060400" version_string="3.6.4"><![CDATA[[UserEss] Eliminar encuesta en el propio tema]]></phrase>
+  <phrase title="permission.forum_userEssEditFrictionIOT" addon_id="SV/UserEssentials" version_id="4000900" version_string="4.0.9"><![CDATA[[UserEss] Editar opciones de fricción de publicación en el propio tema]]></phrase>
+  <phrase title="permission.forum_userEssReplyToOthers" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[[UserEss] Responder en temas de otros]]></phrase>
+  <phrase title="permission.forum_userEssThreadReplyBan" addon_id="SV/UserEssentials" version_id="4000900" version_string="4.0.9"><![CDATA[[UserEss] Prohibir responder en el propio tema]]></phrase>
+  <phrase title="permission.forum_userEssWarnInOwnThread" addon_id="SV/UserEssentials" version_id="3060400" version_string="3.6.4"><![CDATA[[UserEss] Advertir mensajes en el propio tema]]></phrase>
+  <phrase title="permission.forum_useressDelPostsOwnThread" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[[UserEss] Eliminar mensajes en el propio tema]]></phrase>
+  <phrase title="permission.forum_useressEditPostsOwnThread" addon_id="SV/UserEssentials" version_id="3010000" version_string="3.1.0"><![CDATA[[UserEss] Editar mensajes en el propio tema]]></phrase>
+  <phrase title="permission.general_svEditUncPrivacy" addon_id="SV/UserEssentials" version_id="4000700" version_string="4.0.7"><![CDATA[[UserEss] Editar privacidad de cambio de nombre de usuario]]></phrase>
+  <phrase title="permission.general_svSelfDisable" addon_id="SV/UserEssentials" version_id="3070002" version_string="3.7.0"><![CDATA[[UserEss] Auto-desactivar cuenta]]></phrase>
+  <phrase title="permission.general_useressGoInvisible" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[[UserEss] Ocultar estado en línea]]></phrase>
+  <phrase title="permission.general_useress_managealltags" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[[UserEss] Gestionar etiquetas en cualquier perfil]]></phrase>
+  <phrase title="permission.general_useress_manageowntags" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[[UserEss] Gestionar etiquetas en el propio perfil]]></phrase>
+  <phrase title="svUserEss_account_disable_process_successfully_canceled" addon_id="SV/UserEssentials" version_id="3070002" version_string="3.7.0"><![CDATA[Proceso de desactivación de cuenta cancelado correctamente.]]></phrase>
+  <phrase title="svUserEss_account_disable_process_successfully_started" addon_id="SV/UserEssentials" version_id="3070002" version_string="3.7.0"><![CDATA[Proceso de desactivación de cuenta iniciado correctamente.]]></phrase>
+  <phrase title="svUserEss_admin_pending_self_disable_notice" addon_id="SV/UserEssentials" version_id="3080000" version_string="3.8.0"><![CDATA[Solicitud de auto-desactivación de cuenta pendiente para {date}, <a href={link}>detalles</a>]]></phrase>
+  <phrase title="svUserEss_change_state" addon_id="SV/UserEssentials" version_id="4000600" version_string="4.0.6"><![CDATA[Cambiar estado]]></phrase>
+  <phrase title="svUserEss_complete_manually" addon_id="SV/UserEssentials" version_id="3080000" version_string="3.8.0"><![CDATA[Completar (manual)]]></phrase>
+  <phrase title="svUserEss_filter_by_users" addon_id="SV/UserEssentials" version_id="3060000" version_string="3.6.0"><![CDATA[Filtrar por usuarios]]></phrase>
+  <phrase title="svUserEss_notify_by_email" addon_id="SV/UserEssentials" version_id="3080000" version_string="3.8.0"><![CDATA[Notificar por email]]></phrase>
+  <phrase title="svUserEss_please_confirm_that_you_want_to_cancel_the_account_disable_request" addon_id="SV/UserEssentials" version_id="3080000" version_string="3.8.0"><![CDATA[Confirma que deseas cancelar la solicitud de desactivación de la cuenta]]></phrase>
+  <phrase title="svUserEss_please_confirm_that_you_want_to_complete_the_account_disable_request" addon_id="SV/UserEssentials" version_id="3080000" version_string="3.8.0"><![CDATA[Confirma que deseas completar la solicitud de desactivación de la cuenta]]></phrase>
+  <phrase title="svUserEss_please_confirm_that_you_want_to_disable_the_user" addon_id="SV/UserEssentials" version_id="4000800" version_string="4.0.8"><![CDATA[Confirma que deseas desactivar al usuario]]></phrase>
+  <phrase title="svUserEss_please_confirm_want_to_cancel_your_account_disabling_process" addon_id="SV/UserEssentials" version_id="3070002" version_string="3.7.0"><![CDATA[Confirma que deseas cancelar el proceso de desactivación de tu cuenta.]]></phrase>
+  <phrase title="svUserEss_please_confirm_want_to_start_process_of_disabling_your_account" addon_id="SV/UserEssentials" version_id="3070002" version_string="3.7.0"><![CDATA[Confirma que deseas iniciar el proceso de desactivación de tu cuenta.]]></phrase>
+  <phrase title="svUserEss_please_enter_a_user_note" addon_id="SV/UserEssentials" version_id="3060400" version_string="3.6.4"><![CDATA[Introduce una nota sobre este cambio de nombre]]></phrase>
+  <phrase title="svUserEss_private_change" addon_id="SV/UserEssentials" version_id="4000000" version_string="4.0.0"><![CDATA[Cambio privado]]></phrase>
+  <phrase title="svUserEss_private_change_explain" addon_id="SV/UserEssentials" version_id="4000000" version_string="4.0.0"><![CDATA[Si se selecciona, este cambio de nombre de usuario solo será visible para el personal y el usuario.]]></phrase>
+  <phrase title="svUserEss_rejection_reason" addon_id="SV/UserEssentials" version_id="4000000" version_string="4.0.0"><![CDATA[Motivo de rechazo]]></phrase>
+  <phrase title="svUserEss_remove_about_you" addon_id="SV/UserEssentials" version_id="3050102" version_string="3.5.1"><![CDATA[Eliminar "acerca de ti"]]></phrase>
+  <phrase title="svUserEss_remove_custom_title" addon_id="SV/UserEssentials" version_id="3050102" version_string="3.5.1"><![CDATA[Eliminar título personalizado]]></phrase>
+  <phrase title="svUserEss_remove_location" addon_id="SV/UserEssentials" version_id="3050102" version_string="3.5.1"><![CDATA[Eliminar ubicación]]></phrase>
+  <phrase title="svUserEss_requested_username_change_not_found" addon_id="SV/UserEssentials" version_id="4000000" version_string="4.0.0"><![CDATA[No se pudo encontrar el cambio de nombre de usuario solicitado.]]></phrase>
+  <phrase title="svUserEss_self_disable" addon_id="SV/UserEssentials" version_id="3070002" version_string="3.7.0"><![CDATA[Auto-desactivar]]></phrase>
+  <phrase title="svUserEss_self_disable_apply_date" addon_id="SV/UserEssentials" version_id="3080000" version_string="3.8.0"><![CDATA[Fecha de suspensión]]></phrase>
+  <phrase title="svUserEss_self_disable_apply_now" addon_id="SV/UserEssentials" version_id="3080000" version_string="3.8.0"><![CDATA[Inmediatamente]]></phrase>
+  <phrase title="svUserEss_self_disable_next_time" addon_id="SV/UserEssentials" version_id="3080000" version_string="3.8.0"><![CDATA[Debes esperar hasta {date} antes de intentar desactivar tu cuenta nuevamente]]></phrase>
+  <phrase title="svUserEss_self_disabled_email_ban_reason" addon_id="SV/UserEssentials" version_id="4021000" version_string="4.2.10"><![CDATA[Bloqueo automático - Usuario auto-desactivado]]></phrase>
+  <phrase title="svUserEss_start" addon_id="SV/UserEssentials" version_id="3070002" version_string="3.7.0"><![CDATA[Iniciar]]></phrase>
+  <phrase title="svUserEss_this_username_change_is_only_viewable_to_members_with_higher_credentials" addon_id="SV/UserEssentials" version_id="4000000" version_string="4.0.0"><![CDATA[Este cambio de nombre de usuario solo es visible para miembros con permisos superiores.]]></phrase>
+  <phrase title="svUserEss_unable_cancel_user_disable_process" addon_id="SV/UserEssentials" version_id="3070002" version_string="3.7.0"><![CDATA[No se puede cancelar el proceso de desactivación de usuario.]]></phrase>
+  <phrase title="svUserEss_unable_start_user_disable_process" addon_id="SV/UserEssentials" version_id="3070002" version_string="3.7.0"><![CDATA[No se puede iniciar el proceso de desactivación de usuario.]]></phrase>
+  <phrase title="svUserEss_user_self_disable" addon_id="SV/UserEssentials" version_id="3070002" version_string="3.7.0"><![CDATA[Auto-desactivación de usuario]]></phrase>
+  <phrase title="svUserEss_user_self_disable_status.cancelled" addon_id="SV/UserEssentials" version_id="3070002" version_string="3.7.0"><![CDATA[Solicitud de auto-desactivación cancelada]]></phrase>
+  <phrase title="svUserEss_user_self_disable_status.complete" addon_id="SV/UserEssentials" version_id="3070002" version_string="3.7.0"><![CDATA[Solicitud de auto-desactivación completada]]></phrase>
+  <phrase title="svUserEss_user_self_disable_status.complete_manual" addon_id="SV/UserEssentials" version_id="3070002" version_string="3.7.0"><![CDATA[Solicitud de auto-desactivación completada (manual)]]></phrase>
+  <phrase title="svUserEss_user_self_disable_status.pending" addon_id="SV/UserEssentials" version_id="3070002" version_string="3.7.0"><![CDATA[Proceso de solicitud de auto-desactivación iniciado]]></phrase>
+  <phrase title="svUserEss_username_change_alert_opt_outs" addon_id="SV/UserEssentials" version_id="4000000" version_string="4.0.0"><![CDATA[Exclusiones de alertas de cambio de nombre de usuario]]></phrase>
+  <phrase title="svUserEss_username_change_log" addon_id="SV/UserEssentials" version_id="3060000" version_string="3.6.0"><![CDATA[Registro de cambios de nombre de usuario]]></phrase>
+  <phrase title="svUserEss_username_change_nf_discord_opt_outs" addon_id="SV/UserEssentials" version_id="4000002" version_string="4.0.0"><![CDATA[Exclusiones de cambios de nombre de usuario de [NixFifty] Integración de Discord]]></phrase>
+  <phrase title="svUserEss_username_change_push_notification_opt_outs" addon_id="SV/UserEssentials" version_id="4000002" version_string="4.0.0"><![CDATA[Exclusiones de notificaciones push de cambios de nombre de usuario]]></phrase>
+  <phrase title="svUserEss_username_change_request_successfully_cancelled" addon_id="SV/UserEssentials" version_id="1679964075" version_string="4.3.0"><![CDATA[Solicitud de cambio de nombre de usuario cancelada correctamente.]]></phrase>
+  <phrase title="svUserEss_username_change_requested_on" addon_id="SV/UserEssentials" version_id="4000000" version_string="4.0.0"><![CDATA[Cambio solicitado el]]></phrase>
+  <phrase title="svUserEss_username_change_state.approved" addon_id="SV/UserEssentials" version_id="4000000" version_string="4.0.0"><![CDATA[Aprobado]]></phrase>
+  <phrase title="svUserEss_username_change_state.moderated" addon_id="SV/UserEssentials" version_id="4000000" version_string="4.0.0"><![CDATA[Pendiente]]></phrase>
+  <phrase title="svUserEss_username_change_state.rejected" addon_id="SV/UserEssentials" version_id="4000000" version_string="4.0.0"><![CDATA[Rechazado]]></phrase>
+  <phrase title="svUserEss_xs_username_change_from_x_to_y_has_been_approved" addon_id="SV/UserEssentials" version_id="4000000" version_string="4.0.0"><![CDATA[El cambio de nombre de usuario de {name} de {oldUsername} a {newUsername} ha sido aprobado.]]></phrase>
+  <phrase title="svUserEss_xs_username_change_to_x_has_been_rejected" addon_id="SV/UserEssentials" version_id="4000000" version_string="4.0.0"><![CDATA[El cambio de nombre de usuario de {name} a {rejectedUsername} ha sido rechazado.]]></phrase>
+  <phrase title="svUserEss_your_account_is_process_of_being_disabled_pending" addon_id="SV/UserEssentials" version_id="3070002" version_string="3.7.0"><![CDATA[Tu cuenta está en proceso de ser desactivada. Si deseas cancelar este proceso, puedes hacerlo desde <a href="{link}">aquí</a>.]]></phrase>
+  <phrase title="svUserEssential_user_disable_status.cancelled" addon_id="SV/UserEssentials" version_id="3080000" version_string="3.8.0"><![CDATA[Cancelada]]></phrase>
+  <phrase title="svUserEssential_user_disable_status.complete" addon_id="SV/UserEssentials" version_id="4000007" version_string="4.0.0 Beta 3"><![CDATA[Completada]]></phrase>
+  <phrase title="svUserEssential_user_disable_status.complete_manual" addon_id="SV/UserEssentials" version_id="4000007" version_string="4.0.0 Beta 3"><![CDATA[Completada (manual)]]></phrase>
+  <phrase title="svUserEssential_user_disable_status.pending" addon_id="SV/UserEssentials" version_id="3080000" version_string="3.8.0"><![CDATA[Pendiente]]></phrase>
+  <phrase title="svUserEssentials_action_date" addon_id="SV/UserEssentials" version_id="1679964075" version_string="4.3.0"><![CDATA[Fecha de acción]]></phrase>
+  <phrase title="svUserEssentials_administrators_and_moderators_will_not_be_spam_cleaned" addon_id="SV/UserEssentials" version_id="3050101" version_string="3.5.1"><![CDATA[Administradores y moderadores no serán limpiados por spam.]]></phrase>
+  <phrase title="svUserEssentials_completion_date" addon_id="SV/UserEssentials" version_id="3080000" version_string="3.8.0"><![CDATA[Fecha de finalización]]></phrase>
+  <phrase title="svUserEssentials_confirm_spam_cleaning_of_x_users" addon_id="SV/UserEssentials" version_id="3050101" version_string="3.5.1"><![CDATA[Confirmar limpieza de spam de {total} usuarios]]></phrase>
+  <phrase title="svUserEssentials_custom_field_list_not_enough_items" addon_id="SV/UserEssentials" version_id="3080600" version_string="3.8.6"><![CDATA[Los elementos deben separarse por <pre>/<pre>, <pre>-<pre> o <pre>\<pre>.]]></phrase>
+  <phrase title="svUserEssentials_custom_field_list_too_many_items" addon_id="SV/UserEssentials" version_id="3080600" version_string="3.8.6"><![CDATA[Solo se permiten {limit} elementos en la lista]]></phrase>
+  <phrase title="svUserEssentials_disable_date" addon_id="SV/UserEssentials" version_id="4020900" version_string="4.2.9 RC0"><![CDATA[Fecha de desactivación de cuenta]]></phrase>
+  <phrase title="svUserEssentials_disable_user.banEmail" addon_id="SV/UserEssentials" version_id="4000800" version_string="4.0.8"><![CDATA[Bloquear email]]></phrase>
+  <phrase title="svUserEssentials_disable_user.fake_deleted" addon_id="SV/UserEssentials" version_id="4020000" version_string="4.2.0"><![CDATA[Sin el permiso "omitir privacidad", el usuario se comporta como si estuviera eliminado]]></phrase>
+  <phrase title="svUserEssentials_disable_user.removeAbout" addon_id="SV/UserEssentials" version_id="4000800" version_string="4.0.8"><![CDATA[Eliminar campo "Acerca de"]]></phrase>
+  <phrase title="svUserEssentials_disable_user.removeAvatar" addon_id="SV/UserEssentials" version_id="4020401" version_string="4.2.4"><![CDATA[Eliminar avatar]]></phrase>
+  <phrase title="svUserEssentials_disable_user.removeCustomFields" addon_id="SV/UserEssentials" version_id="4000800" version_string="4.0.8"><![CDATA[Borrar campos personalizados visibles públicamente]]></phrase>
+  <phrase title="svUserEssentials_disable_user.removeDateOfBirth" addon_id="SV/UserEssentials" version_id="4000800" version_string="4.0.8"><![CDATA[Eliminar fecha de nacimiento]]></phrase>
+  <phrase title="svUserEssentials_disable_user.removeEmail" addon_id="SV/UserEssentials" version_id="4000800" version_string="4.0.8"><![CDATA[Eliminar email]]></phrase>
+  <phrase title="svUserEssentials_disable_user.removeLocation" addon_id="SV/UserEssentials" version_id="4000800" version_string="4.0.8"><![CDATA[Eliminar ubicación]]></phrase>
+  <phrase title="svUserEssentials_disable_user.removePassword" addon_id="SV/UserEssentials" version_id="4000800" version_string="4.0.8"><![CDATA[Eliminar contraseña]]></phrase>
+  <phrase title="svUserEssentials_disable_user.removeProfileBanner" addon_id="SV/UserEssentials" version_id="4020401" version_string="4.2.4"><![CDATA[Eliminar banner de perfil]]></phrase>
+  <phrase title="svUserEssentials_disable_user.removeWebsite" addon_id="SV/UserEssentials" version_id="4000800" version_string="4.0.8"><![CDATA[Eliminar campo de sitio web]]></phrase>
+  <phrase title="svUserEssentials_disable_user.updatePrivacyToBeMostRestrictive" addon_id="SV/UserEssentials" version_id="4000800" version_string="4.0.8"><![CDATA[Actualizar la configuración de privacidad a la más restrictiva]]></phrase>
+  <phrase title="svUserEssentials_english_characters_only" addon_id="SV/UserEssentials" version_id="3080700" version_string="3.8.7"><![CDATA[Solo se permiten caracteres del alfabeto inglés]]></phrase>
+  <phrase title="svUserEssentials_notify_date" addon_id="SV/UserEssentials" version_id="4020900" version_string="4.2.9 RC0"><![CDATA[Fecha de notificación del recordatorio]]></phrase>
+  <phrase title="svUserEssentials_reminder_send" addon_id="SV/UserEssentials" version_id="4020900" version_string="4.2.9 RC0"><![CDATA[Recordatorio enviado]]></phrase>
+  <phrase title="svUserEssentials_schedule_date" addon_id="SV/UserEssentials" version_id="3080000" version_string="3.8.0"><![CDATA[Fecha de inicio]]></phrase>
+  <phrase title="svUserEssentials_spam_clean_users" addon_id="SV/UserEssentials" version_id="3050101" version_string="3.5.1"><![CDATA[Limpiar usuarios por spam]]></phrase>
+  <phrase title="svUserEssentials_title_edit_time_limit_expired" addon_id="SV/UserEssentials" version_id="3080800" version_string="3.8.8"><![CDATA[El límite de tiempo para editar este tema ({minutes} minutos) ha expirado.]]></phrase>
+  <phrase title="svUserEssentials_you_have_not_given_any_reactions_yet" addon_id="SV/UserEssentials" version_id="1711684363" version_string="4.4.1"><![CDATA[Aún no has dado ninguna reacción]]></phrase>
+  <phrase title="svUserEssentials_you_may_not_perform_this_action_because_discussion_is_closed" addon_id="SV/UserEssentials" version_id="3030200" version_string="3.3.2"><![CDATA[No puedes realizar esta acción porque la discusión ha sido cerrada por un moderador]]></phrase>
+  <phrase title="svUserEssentials_you_must_confirm_spam_cleaning_to_proceed" addon_id="SV/UserEssentials" version_id="3050101" version_string="3.5.1"><![CDATA[Debes confirmar la limpieza de spam para continuar.]]></phrase>
+  <phrase title="sv_ue_admins_and_mods_only" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[Solo administradores y moderadores]]></phrase>
+  <phrase title="sv_ue_admins_mods_and_user_only" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[Solo administradores, moderadores y el usuario]]></phrase>
+  <phrase title="sv_ue_and_x_more" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[y {count} más.]]></phrase>
+  <phrase title="sv_ue_approved" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[Aprobado]]></phrase>
+  <phrase title="sv_ue_automatically_approved" addon_id="SV/UserEssentials" version_id="3050101" version_string="3.5.1"><![CDATA[Aprobado automáticamente]]></phrase>
+  <phrase title="sv_ue_cancel_change_request" addon_id="SV/UserEssentials" version_id="1679964075" version_string="4.3.0"><![CDATA[Cancelar solicitud de cambio]]></phrase>
+  <phrase title="sv_ue_clear_all_login_attempts_for_ip" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[Borrar todos los intentos de inicio de sesión para esta dirección IP]]></phrase>
+  <phrase title="sv_ue_clear_all_login_attempts_for_login" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[Borrar todos los intentos de inicio de sesión para este inicio de sesión]]></phrase>
+  <phrase title="sv_ue_confirm_cancellation_of_username_change" addon_id="SV/UserEssentials" version_id="1679964075" version_string="4.3.0"><![CDATA[Confirmar cancelación de la solicitud de cambio de nombre de usuario]]></phrase>
+  <phrase title="sv_ue_content_mentions" addon_id="SV/UserEssentials" version_id="3000040" version_string="3.0.0 Beta 10"><![CDATA[Menciones de contenido - {type}]]></phrase>
+  <phrase title="sv_ue_disable_user_cancelled_subject" addon_id="SV/UserEssentials" version_id="3070002" version_string="3.7.0"><![CDATA[Desactivación de cuenta solicitada por el usuario - Cancelada]]></phrase>
+  <phrase title="sv_ue_disable_user_completed_body_html" addon_id="SV/UserEssentials" version_id="3070002" version_string="3.7.0"><![CDATA[{name},<br/>
+<br/>
+Tu cuenta en {boardTitle} ha sido desactivada, según tu solicitud.]]></phrase>
+  <phrase title="sv_ue_disable_user_completed_cancelled_html" addon_id="SV/UserEssentials" version_id="4021300" version_string="4.2.13"><![CDATA[{name},<br/>
+<br/>
+Tu cuenta en {boardTitle} no fue desactivada y tu solicitud para desactivarla ha sido cancelada.]]></phrase>
+  <phrase title="sv_ue_disable_user_completed_force_cancelled_html" addon_id="SV/UserEssentials" version_id="3080200" version_string="3.8.2"><![CDATA[{name},<br/>
+<br/>
+Tu cuenta en {boardTitle} no fue desactivada y tu solicitud para desactivarla ha sido cancelada.]]></phrase>
+  <phrase title="sv_ue_disable_user_completed_subject" addon_id="SV/UserEssentials" version_id="3070002" version_string="3.7.0"><![CDATA[Desactivación de cuenta solicitada por el usuario - Completada]]></phrase>
+  <phrase title="sv_ue_disable_user_reminder_body_html" addon_id="SV/UserEssentials" version_id="3080004" version_string="3.8.0rc4"><![CDATA[{name},<br/>
+<br/>
+Tu cuenta en {boardTitle} será desactivada en aproximadamente {days} días, según tu solicitud.<br/>
+<br/>
+Si ya no deseas desactivar tu cuenta, puedes cancelar la desactivación programada visitando {boardTitle} antes de esta fecha.]]></phrase>
+  <phrase title="sv_ue_disable_user_reminder_subject" addon_id="SV/UserEssentials" version_id="3070002" version_string="3.7.0"><![CDATA[Desactivación de cuenta solicitada por el usuario - Recordatorio]]></phrase>
+  <phrase title="sv_ue_disable_user_scheduled_body_html" addon_id="SV/UserEssentials" version_id="3080004" version_string="3.8.0rc4"><![CDATA[{name},<br/>
+<br/>
+Tu cuenta en {boardTitle} será desactivada en aproximadamente {days} días, según tu solicitud.<br/>
+<br/>
+Si ya no deseas desactivar tu cuenta, puedes cancelar la desactivación programada visitando {boardTitle} antes de esta fecha.]]></phrase>
+  <phrase title="sv_ue_disable_user_scheduled_subject" addon_id="SV/UserEssentials" version_id="3070002" version_string="3.7.0"><![CDATA[Desactivación de cuenta solicitada por el usuario - Programada]]></phrase>
+  <phrase title="sv_ue_edit_post_friction_options" addon_id="SV/UserEssentials" version_id="4000900" version_string="4.0.9"><![CDATA[Editar opciones de fricción de publicación]]></phrase>
+  <phrase title="sv_ue_edit_post_friction_options_explain" addon_id="SV/UserEssentials" version_id="4000900" version_string="4.0.9"><![CDATA[Si está habilitado, el creador del tema podrá editar las opciones de fricción de la publicación del tema]]></phrase>
+  <phrase title="sv_ue_from_name" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[Nombre del remitente]]></phrase>
+  <phrase title="sv_ue_issue_user_warn" addon_id="SV/UserEssentials" version_id="3060400" version_string="3.6.4"><![CDATA[Emitir advertencias]]></phrase>
+  <phrase title="sv_ue_issue_user_warn_explain" addon_id="SV/UserEssentials" version_id="3060400" version_string="3.6.4"><![CDATA[Si está habilitado, el creador del tema podrá emitir advertencias en este tema.]]></phrase>
+  <phrase title="sv_ue_lock_thread" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[Bloquear tema]]></phrase>
+  <phrase title="sv_ue_lock_thread_explain" addon_id="SV/UserEssentials" version_id="3040200" version_string="3.4.2"><![CDATA[Si está habilitado, el creador del tema podrá bloquear este tema]]></phrase>
+  <phrase title="sv_ue_locked_by_user" addon_id="SV/UserEssentials" version_id="3040200" version_string="3.4.2"><![CDATA[Tema bloqueado por el usuario]]></phrase>
+  <phrase title="sv_ue_locked_by_user_explain" addon_id="SV/UserEssentials" version_id="3040200" version_string="3.4.2"><![CDATA[Los usuarios solo pueden desbloquear el tema si no fue hecho por un moderador]]></phrase>
+  <phrase title="sv_ue_login" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[Inicio de sesión]]></phrase>
+  <phrase title="sv_ue_login_attempt" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[Intento de inicio de sesión]]></phrase>
+  <phrase title="sv_ue_login_attempt_log" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[Registro de intentos de inicio de sesión]]></phrase>
+  <phrase title="sv_ue_login_attempts" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[Intentos de inicio de sesión]]></phrase>
+  <phrase title="sv_ue_login_attempts_logged_for_x" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[Intentos de inicio de sesión registrados para {name}]]></phrase>
+  <phrase title="sv_ue_manage_reply_bans" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[Gestionar prohibiciones de responder]]></phrase>
+  <phrase title="sv_ue_manage_reply_bans_explain" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[Si está habilitado, el creador del tema podrá gestionar las prohibiciones de responder para este tema.]]></phrase>
+  <phrase title="sv_ue_no_login_attempts_for_requested_user" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[No se encontraron intentos de inicio de sesión para el usuario solicitado.]]></phrase>
+  <phrase title="sv_ue_please_confirm_that_you_want_to_cancel_pending_username_change" addon_id="SV/UserEssentials" version_id="1679964075" version_string="4.3.0"><![CDATA[Confirma que deseas cancelar tu solicitud de cambio de nombre de usuario pendiente.]]></phrase>
+  <phrase title="sv_ue_please_enter_a_valid_price_to_continue_with_your_purchase" addon_id="SV/UserEssentials" version_id="3000012" version_string="3.0.0 Beta 2"><![CDATA[Introduce un precio válido entre {min} y {max} para continuar con tu compra.]]></phrase>
+  <phrase title="sv_ue_please_enter_another_name_previous" addon_id="SV/UserEssentials" version_id="4000700" version_string="4.0.7"><![CDATA[Introduce otro nombre de usuario. El especificado ya ha sido usado anteriormente.]]></phrase>
+  <phrase title="sv_ue_previous_names" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[Nombres anteriores]]></phrase>
+  <phrase title="sv_ue_private_explain" addon_id="SV/UserEssentials" version_id="4000700" version_string="4.0.7"><![CDATA[Si se selecciona, este cambio de nombre de usuario solo será visible para el personal y el usuario.]]></phrase>
+  <phrase title="sv_ue_profile_tags" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[Etiquetas de perfil]]></phrase>
+  <phrase title="sv_ue_quantity" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[Cantidad]]></phrase>
+  <phrase title="sv_ue_quantity_explain" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[El número máximo de compras que se pueden hacer para esta mejora. Usa 0 para desactivar.]]></phrase>
+  <phrase title="sv_ue_reactions_given" addon_id="SV/UserEssentials" version_id="3021100" version_string="3.2.11"><![CDATA[Reacciones dadas]]></phrase>
+  <phrase title="sv_ue_rebuild_content_mentions" addon_id="SV/UserEssentials" version_id="3000034" version_string="3.0.0 Beta 4"><![CDATA[Reconstruir menciones de contenido]]></phrase>
+  <phrase title="sv_ue_recurring_user_upgrades_cannot_have_a_quantity" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[Las mejoras de usuario recurrentes no pueden tener una cantidad.]]></phrase>
+  <phrase title="sv_ue_request_date" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[Fecha de solicitud]]></phrase>
+  <phrase title="sv_ue_requester" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[Solicitante]]></phrase>
+  <phrase title="sv_ue_send_user_name_change_notifications" addon_id="SV/UserEssentials" version_id="4000700" version_string="4.0.7"><![CDATA[Enviar notificaciones de cambio de nombre de usuario]]></phrase>
+  <phrase title="sv_ue_sure_you_want_to_clear_user_log" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[¿Seguro que deseas borrar el registro de usuario?]]></phrase>
+  <phrase title="sv_ue_this_is_name_that_will_be_shown_with_your_messages" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[Este es el nombre que se mostrará junto a tus mensajes. Puedes usar cualquier nombre que desees.]]></phrase>
+  <phrase title="sv_ue_this_member_has_not_changed_their_user_name" addon_id="SV/UserEssentials" version_id="4000700" version_string="4.0.7"><![CDATA[Este miembro no ha cambiado su nombre de usuario.]]></phrase>
+  <phrase title="sv_ue_this_note_will_be_included_in_user_notification" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[Esta nota se incluirá en la notificación enviada a los usuarios.]]></phrase>
+  <phrase title="sv_ue_thread_starter_permissions" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[Permisos del creador del tema]]></phrase>
+  <phrase title="sv_ue_to_name" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[Nombre de destino]]></phrase>
+  <phrase title="sv_ue_total_changes" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[Cambios totales]]></phrase>
+  <phrase title="sv_ue_unlock_thread" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[Desbloquear tema]]></phrase>
+  <phrase title="sv_ue_unlock_thread_explain" addon_id="SV/UserEssentials" version_id="3040200" version_string="3.4.2"><![CDATA[Si está habilitado, el creador del tema podrá desbloquear este tema]]></phrase>
+  <phrase title="sv_ue_user_delete_all" addon_id="SV/UserEssentials" version_id="3060400" version_string="3.6.4"><![CDATA[Eliminar cualquier mensaje]]></phrase>
+  <phrase title="sv_ue_user_delete_all_explain" addon_id="SV/UserEssentials" version_id="3060400" version_string="3.6.4"><![CDATA[Si está habilitado, el creador del tema podrá eliminar cualquier mensaje de este tema.]]></phrase>
+  <phrase title="sv_ue_user_edit_all" addon_id="SV/UserEssentials" version_id="3060400" version_string="3.6.4"><![CDATA[Editar cualquier mensaje]]></phrase>
+  <phrase title="sv_ue_user_edit_all_explain" addon_id="SV/UserEssentials" version_id="3060400" version_string="3.6.4"><![CDATA[Si está habilitado, el creador del tema podrá editar cualquier mensaje de este tema.]]></phrase>
+  <phrase title="sv_ue_user_log" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[Registro de usuario]]></phrase>
+  <phrase title="sv_ue_user_log_entry" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[Entrada del registro de usuario]]></phrase>
+  <phrase title="sv_ue_user_name_change_approved_body_html" addon_id="SV/UserEssentials" version_id="4000700" version_string="4.0.7"><![CDATA[<p>Tu nombre de usuario en {board} ha sido cambiado a {username}.</p>]]></phrase>
+  <phrase title="sv_ue_user_name_change_approved_subject" addon_id="SV/UserEssentials" version_id="4000700" version_string="4.0.7"><![CDATA[Nombre de usuario cambiado en {boardTitle}]]></phrase>
+  <phrase title="sv_ue_user_name_change_denied_body_html" addon_id="SV/UserEssentials" version_id="4000700" version_string="4.0.7"><![CDATA[<p>{username}, tu solicitud de cambiar tu nombre de usuario en {board} a {toName} ha sido rechazada.</p>]]></phrase>
+  <phrase title="sv_ue_user_name_change_denied_subject" addon_id="SV/UserEssentials" version_id="4000700" version_string="4.0.7"><![CDATA[Cambio de nombre de usuario rechazado en {boardTitle}]]></phrase>
+  <phrase title="sv_ue_user_name_change_for" addon_id="SV/UserEssentials" version_id="4000700" version_string="4.0.7"><![CDATA[Cambio de nombre de usuario para {name}]]></phrase>
+  <phrase title="sv_ue_user_note_explain" addon_id="SV/UserEssentials" version_id="4000700" version_string="4.0.7"><![CDATA[Proporciona una nota para ayudar a los moderadores a aprobar tu cambio de nombre de usuario.]]></phrase>
+  <phrase title="sv_ue_user_self_disable_entry" addon_id="SV/UserEssentials" version_id="3080000" version_string="3.8.0"><![CDATA[Entrada de auto-desactivación de usuario]]></phrase>
+  <phrase title="sv_ue_user_self_disable_log" addon_id="SV/UserEssentials" version_id="3080000" version_string="3.8.0"><![CDATA[Registro de auto-desactivación de usuario]]></phrase>
+  <phrase title="sv_ue_user_was_merged" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[El usuario fue fusionado en este usuario.]]></phrase>
+  <phrase title="sv_ue_username_change_user_title" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[Anteriormente '{oldName}']]></phrase>
+  <phrase title="sv_ue_username_explain" addon_id="SV/UserEssentials" version_id="4000700" version_string="4.0.7"><![CDATA[Este es el nombre que se muestra junto a tus mensajes. Puedes usar cualquier nombre que desees. Tu antiguo nombre de usuario seguirá mostrándose en los mensajes citados anteriores.]]></phrase>
+  <phrase title="sv_ue_view_conversations" addon_id="SV/UserEssentials" version_id="3000010" version_string="3.0.0 Alpha"><![CDATA[Ver conversaciones]]></phrase>
+  <phrase title="sv_ue_view_direct_messages" addon_id="SV/UserEssentials" version_id="1739553721" version_string="4.5.5"><![CDATA[Ver mensajes directos]]></phrase>
+  <phrase title="sv_ue_you_can_change_your_user_name_x_more_times" addon_id="SV/UserEssentials" version_id="4000700" version_string="4.0.7"><![CDATA[Puedes cambiar tu nombre de usuario {remaining} veces más.]]></phrase>
+  <phrase title="sv_ue_you_can_change_your_user_name_x_more_times_before_y" addon_id="SV/UserEssentials" version_id="4000700" version_string="4.0.7"><![CDATA[Puedes cambiar tu nombre de usuario {remaining} veces más antes de {periodEnd}.]]></phrase>
+  <phrase title="sv_ue_you_can_change_your_user_name_x_times" addon_id="SV/UserEssentials" version_id="4000700" version_string="4.0.7"><![CDATA[Puedes cambiar tu nombre de usuario {max} veces.]]></phrase>
+  <phrase title="sv_ue_you_can_change_your_user_name_x_times_every_y_days" addon_id="SV/UserEssentials" version_id="4000700" version_string="4.0.7"><![CDATA[Puedes cambiar tu nombre de usuario {max} veces cada {period} días.]]></phrase>
+  <phrase title="sv_ue_you_can_not_change_your_user_name_after_you_post_more_than_x_messages" addon_id="SV/UserEssentials" version_id="3030900" version_string="3.3.9"><![CDATA[Los cambios de nombre solo están permitidos con menos de {max} mensajes.]]></phrase>
+  <phrase title="sv_ue_you_can_not_change_your_user_name_again" addon_id="SV/UserEssentials" version_id="4000700" version_string="4.0.7"><![CDATA[Has cambiado tu nombre de usuario {changeCount} veces y no puedes volver a cambiarlo.]]></phrase>
+  <phrase title="sv_ue_you_can_not_change_your_user_name_again_until_x" addon_id="SV/UserEssentials" version_id="4000700" version_string="4.0.7"><![CDATA[Has cambiado tu nombre de usuario {changeCount} veces y no puedes volver a cambiarlo hasta {periodEnd}]]></phrase>
+</language>

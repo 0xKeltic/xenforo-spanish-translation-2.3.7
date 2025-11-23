@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language title="Español (ES)" date_format="j M Y" date_short_format="M 'y" date_short_recent_format="M j" time_format="H:i" currency_format="{value}{symbol}" week_start="1" decimal_point="," thousands_separator="." label_separator=":" comma_separator=", " ellipsis="…" parenthesis_open="(" parenthesis_close=")" language_code="es-ES" text_direction="LTR" user_selectable="1" addon_id="NF/GroupModerators" base_version_id="2030070" export_version="2">
+  <phrase title="mod_log.user_groupmod_add" addon_id="NF/GroupModerators" version_id="2010172" version_string="2.1.1b"><![CDATA[Usuario añadido al grupo {group}]]></phrase>
+  <phrase title="mod_log.user_groupmod_remove" addon_id="NF/GroupModerators" version_id="2010172" version_string="2.1.1b"><![CDATA[Usuario eliminado del grupo {group}]]></phrase>
+  <phrase title="nf_groupmoderators" addon_id="NF/GroupModerators" version_id="2000470" version_string="2.0.4"><![CDATA[Moderadores de grupo]]></phrase>
+  <phrase title="nf_groupmoderators_add_group_members" addon_id="NF/GroupModerators" version_id="2000470" version_string="2.0.4"><![CDATA[Añadir miembros al grupo]]></phrase>
+  <phrase title="nf_groupmoderators_confirm_that_you_want_to_remove_following_user_from_group" addon_id="NF/GroupModerators" version_id="2030070" version_string="2.3.0"><![CDATA[Por favor, confirma que deseas eliminar al siguiente usuario del grupo de usuarios]]></phrase>
+  <phrase title="nf_groupmoderators_group" addon_id="NF/GroupModerators" version_id="2000470" version_string="2.0.4"><![CDATA[Moderadores de grupo (basado en grupo)]]></phrase>
+  <phrase title="nf_groupmoderators_moderated_groups" addon_id="NF/GroupModerators" version_id="2000470" version_string="2.0.4"><![CDATA[Grupos moderados]]></phrase>
+  <phrase title="nf_groupmoderators_no_users_are_currently_in_this_group" addon_id="NF/GroupModerators" version_id="2000470" version_string="2.0.4"><![CDATA[No hay usuarios actualmente en este grupo.]]></phrase>
+  <phrase title="nf_groupmoderators_tooltip_remove" addon_id="NF/GroupModerators" version_id="2010171" version_string="2.1.1a"><![CDATA[Eliminar a este usuario del grupo]]></phrase>
+  <phrase title="nf_groupmoderators_user" addon_id="NF/GroupModerators" version_id="2000470" version_string="2.0.4"><![CDATA[Moderadores de grupo (basado en usuario)]]></phrase>
+  <phrase title="nf_groupmoderators_you_currently_are_not_a_moderator_of_any_groups" addon_id="NF/GroupModerators" version_id="2000470" version_string="2.0.4"><![CDATA[Actualmente no eres moderador de ningún grupo.]]></phrase>
+</language>

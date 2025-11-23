@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language title="Español (ES)" date_format="j M Y" date_short_format="M 'y" date_short_recent_format="M j" time_format="H:i" currency_format="{value}{symbol}" week_start="1" decimal_point="," thousands_separator="." label_separator=":" comma_separator=", " ellipsis="…" parenthesis_open="(" parenthesis_close=")" language_code="es-ES" text_direction="LTR" user_selectable="1" addon_id="SV/ModeratorEssentials" base_version_id="2060100" export_version="2">
+  <phrase title="cron_entry.svModEssDailyCleanUp" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Limpieza diaria (Esenciales de Moderador)]]></phrase>
+  <phrase title="mod_log.post_convert_to_conversation" addon_id="SV/ModeratorEssentials" version_id="2000012" version_string="2.0.0 Alpha 2"><![CDATA[Mensaje convertido en conversación (motivo: {reason})]]></phrase>
+  <phrase title="mod_log.user_warning_updated" addon_id="SV/ModeratorEssentials" version_id="2000013" version_string="2.0.0 Alpha 3"><![CDATA[Advertencia de usuario actualizada (expiración previa: {previous_expiry_date})]]></phrase>
+  <phrase title="option.modEss_warning_conversation_starter" addon_id="SV/ModeratorEssentials" version_id="2000000" version_string="2.0.0"><![CDATA[Remitente global de conversaciones de advertencia]]></phrase>
+  <phrase title="option.mod_discuss_node" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Abrir notas de tema en el foro]]></phrase>
+  <phrase title="option.modessRequireAccessPermission" addon_id="SV/ModeratorEssentials" version_id="2000016" version_string="2.0.0"><![CDATA[Requerir permiso de acceso]]></phrase>
+  <phrase title="option.modessShowDeletedPostPlaceholderAvatar" addon_id="SV/ModeratorEssentials" version_id="2050300" version_string="2.5.3"><![CDATA[Avatar para mostrar en marcadores de mensajes eliminados]]></phrase>
+  <phrase title="option.modess_ban_underage" addon_id="SV/ModeratorEssentials" version_id="2000000" version_string="2.0.0"><![CDATA[Expulsar miembros menores de edad]]></phrase>
+  <phrase title="option.modess_ban_underage_ban_reason" addon_id="SV/ModeratorEssentials" version_id="2000000" version_string="2.0.0"><![CDATA[Motivo de expulsión]]></phrase>
+  <phrase title="option.modess_ban_underage_grace_days" addon_id="SV/ModeratorEssentials" version_id="2000000" version_string="2.0.0"><![CDATA[Periodo de gracia (número de días)]]></phrase>
+  <phrase title="option.modess_ban_underage_min_age" addon_id="SV/ModeratorEssentials" version_id="2000000" version_string="2.0.0"><![CDATA[Edad máxima para expulsar]]></phrase>
+  <phrase title="option.modess_delete_placeholder_view_reason" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Mostrar motivos de eliminación en los marcadores de contenido eliminado]]></phrase>
+  <phrase title="option.modess_exclude_non_staff_forum_moderators" addon_id="SV/ModeratorEssentials" version_id="2000000" version_string="2.0.0"><![CDATA[Excluir no miembros del personal]]></phrase>
+  <phrase title="option.modess_include_super_forum_moderators" addon_id="SV/ModeratorEssentials" version_id="2000000" version_string="2.0.0"><![CDATA[Incluir super moderadores]]></phrase>
+  <phrase title="option.modess_limit_custom_warnings_to_admins" addon_id="SV/ModeratorEssentials" version_id="2000000" version_string="2.0.0"><![CDATA[Limitar advertencias personalizadas a administradores]]></phrase>
+  <phrase title="option.modess_mod_log_max_entries" addon_id="SV/ModeratorEssentials" version_id="2000000" version_string="2.0.0"><![CDATA[Máximo de entradas de sesión del registro de moderación]]></phrase>
+  <phrase title="option.modess_mod_log_per_page" addon_id="SV/ModeratorEssentials" version_id="2000000" version_string="2.0.0"><![CDATA[Elementos del registro de moderación por página]]></phrase>
+  <phrase title="option.modess_mod_log_search_max_days" addon_id="SV/ModeratorEssentials" version_id="2000000" version_string="2.0.0"><![CDATA[Máximo de días de búsqueda en el registro de moderación]]></phrase>
+  <phrase title="option.modess_mod_log_show_ips" addon_id="SV/ModeratorEssentials" version_id="2000000" version_string="2.0.0"><![CDATA[Mostrar dirección IP del moderador]]></phrase>
+  <phrase title="option.modess_rollback_warning" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Advertencia al revertir mensajes de usuario]]></phrase>
+  <phrase title="option.modess_show_forum_moderators" addon_id="SV/ModeratorEssentials" version_id="2000000" version_string="2.0.0"><![CDATA[Mostrar moderadores del foro]]></phrase>
+  <phrase title="option.modess_show_forum_moderators_order" addon_id="SV/ModeratorEssentials" version_id="2000000" version_string="2.0.0"><![CDATA[Orden de visualización de la lista]]></phrase>
+  <phrase title="option.modess_warn_start_conversation_default" addon_id="SV/ModeratorEssentials" version_id="2000000" version_string="2.0.0"><![CDATA[Iniciar conversación por defecto al advertir]]></phrase>
+  <phrase title="option_explain.modEss_warning_conversation_starter" addon_id="SV/ModeratorEssentials" version_id="2000000" version_string="2.0.0"><![CDATA[Si está habilitado, y se proporciona un nombre de usuario válido, este usuario será siempre el remitente de las conversaciones de advertencia.]]></phrase>
+  <phrase title="option_explain.mod_discuss_node" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Si se selecciona un foro aquí, los moderadores podrán abrir discusiones de notas para los temas.]]></phrase>
+  <phrase title="option_explain.modessRequireAccessPermission" addon_id="SV/ModeratorEssentials" version_id="2050200" version_string="2.5.2"><![CDATA[Si está habilitado, requiere el permiso "[ModEss] Acceder al panel de moderación"; ser moderador no es suficiente.]]></phrase>
+  <phrase title="option_explain.modessShowDeletedPostPlaceholderAvatar" addon_id="SV/ModeratorEssentials" version_id="2050300" version_string="2.5.3"><![CDATA[]]></phrase>
+  <phrase title="option_explain.modess_ban_underage" addon_id="SV/ModeratorEssentials" version_id="2000000" version_string="2.0.0"><![CDATA[¿Quieres permitir que los menores se registren pero sean expulsados instantáneamente hasta alcanzar la edad mínima?]]></phrase>
+  <phrase title="option_explain.modess_ban_underage_ban_reason" addon_id="SV/ModeratorEssentials" version_id="2000000" version_string="2.0.0"><![CDATA[¿Qué motivo de expulsión deseas para estos miembros?]]></phrase>
+  <phrase title="option_explain.modess_ban_underage_grace_days" addon_id="SV/ModeratorEssentials" version_id="2000000" version_string="2.0.0"><![CDATA[Si a un usuario le faltan pocos días para alcanzar la edad máxima, quizá quieras no expulsarlo.]]></phrase>
+  <phrase title="option_explain.modess_ban_underage_min_age" addon_id="SV/ModeratorEssentials" version_id="2000000" version_string="2.0.0"><![CDATA[Expulsar a todos los usuarios que se registren hasta esta edad; también es la edad a la que se les levantará automáticamente la expulsión.]]></phrase>
+  <phrase title="option_explain.modess_delete_placeholder_view_reason" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Si está habilitado, los usuarios con capacidad de ver marcadores de contenido eliminado también podrán ver los motivos de eliminación.]]></phrase>
+  <phrase title="option_explain.modess_exclude_non_staff_forum_moderators" addon_id="SV/ModeratorEssentials" version_id="2000000" version_string="2.0.0"><![CDATA[Excluir a los moderadores que no tienen la opción "<i>Mostrar usuario como personal</i>".]]></phrase>
+  <phrase title="option_explain.modess_include_super_forum_moderators" addon_id="SV/ModeratorEssentials" version_id="2000000" version_string="2.0.0"><![CDATA[¿Deseas incluir a los super moderadores en la lista? Aparecerán en la lista de cada foro.]]></phrase>
+  <phrase title="option_explain.modess_limit_custom_warnings_to_admins" addon_id="SV/ModeratorEssentials" version_id="2000000" version_string="2.0.0"><![CDATA[¿Deseas limitar la emisión de advertencias personalizadas a los administradores? Estas son advertencias sin texto ni mensaje de conversación predefinidos.]]></phrase>
+  <phrase title="option_explain.modess_mod_log_max_entries" addon_id="SV/ModeratorEssentials" version_id="2000000" version_string="2.0.0"><![CDATA[Este número determina el máximo de entradas del registro que verá un moderador al iniciar sesión y comenzar una sesión. El sistema está orientado a uso diario; sin embargo, si el moderador no ha revisado el registro por un tiempo, no tiene sentido recuperar demasiadas entradas (mín. 25, máx. 100).]]></phrase>
+  <phrase title="option_explain.modess_mod_log_per_page" addon_id="SV/ModeratorEssentials" version_id="2000000" version_string="2.0.0"><![CDATA[Número de elementos del registro a mostrar por página.]]></phrase>
+  <phrase title="option_explain.modess_mod_log_search_max_days" addon_id="SV/ModeratorEssentials" version_id="2000000" version_string="2.0.0"><![CDATA[Limitar la búsqueda de entradas del registro a los últimos X días (máx. 30).]]></phrase>
+  <phrase title="option_explain.modess_mod_log_show_ips" addon_id="SV/ModeratorEssentials" version_id="2000000" version_string="2.0.0"><![CDATA[¿Deseas incluir la dirección IP del moderador que realizó la acción?<br />El visor debe tener el permiso '<i>Ver direcciones IP</i>'.]]></phrase>
+  <phrase title="option_explain.modess_rollback_warning" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Si se selecciona una advertencia aquí, se aplicará a los usuarios cuando sus ediciones de mensajes sean revertidas por un moderador.]]></phrase>
+  <phrase title="option_explain.modess_show_forum_moderators" addon_id="SV/ModeratorEssentials" version_id="2000000" version_string="2.0.0"><![CDATA[¿Deseas mostrar una lista de moderadores del foro junto al enlace 'Seguir foro' en la parte superior de la lista de temas de cada foro?]]></phrase>
+  <phrase title="option_explain.modess_show_forum_moderators_order" addon_id="SV/ModeratorEssentials" version_id="2000000" version_string="2.0.0"><![CDATA[Los nombres de moderadores se mostrarán en este orden.]]></phrase>
+  <phrase title="option_explain.modess_warn_start_conversation_default" addon_id="SV/ModeratorEssentials" version_id="2000000" version_string="2.0.0"><![CDATA[Por defecto, al emitir una advertencia, la casilla "iniciar una conversación" ya está marcada.<br />Seleccionar 'No' aquí desmarcará esa casilla como nuevo valor por defecto.]]></phrase>
+  <phrase title="option_group.modess" addon_id="SV/ModeratorEssentials" version_id="2000000" version_string="2.0.0"><![CDATA[Esenciales del Moderador]]></phrase>
+  <phrase title="option_group_description.modess" addon_id="SV/ModeratorEssentials" version_id="2000000" version_string="2.0.0"><![CDATA[]]></phrase>
+  <phrase title="permission.forum_canCreateThreadNotesSv" addon_id="SV/ModeratorEssentials" version_id="2050301" version_string="2.5.3"><![CDATA[[ModEss] Puede usar notas de tema]]></phrase>
+  <phrase title="permission.forum_modessThreadViewModLogs" addon_id="SV/ModeratorEssentials" version_id="2000000" version_string="2.0.0"><![CDATA[[ModEss] Ver registros de moderación (para temas)]]></phrase>
+  <phrase title="permission.forum_modess_convertToConv" addon_id="SV/ModeratorEssentials" version_id="2000000" version_string="2.0.0"><![CDATA[[ModEss] Convertir mensajes en conversación]]></phrase>
+  <phrase title="permission.forum_viewPostPlaceholders" addon_id="SV/ModeratorEssentials" version_id="2000000" version_string="2.0.0"><![CDATA[[ModEss] Ver marcadores de mensajes eliminados]]></phrase>
+  <phrase title="permission.forum_viewThreadPlaceholders" addon_id="SV/ModeratorEssentials" version_id="2000000" version_string="2.0.0"><![CDATA[[ModEss] Ver marcadores de temas eliminados]]></phrase>
+  <phrase title="permission.general_canViewModLogCounts" addon_id="SV/ModeratorEssentials" version_id="2000000" version_string="2.0.0"><![CDATA[[ModEss] Puede ver el contador de registros en la barra de moderación (depende del registro de moderación de temas)]]></phrase>
+  <phrase title="permission.general_modess_IpSearch" addon_id="SV/ModeratorEssentials" version_id="2000000" version_string="2.0.0"><![CDATA[[ModEss] Puede buscar IP]]></phrase>
+  <phrase title="permission.general_modess_access" addon_id="SV/ModeratorEssentials" version_id="2010000" version_string="2.1.0"><![CDATA[[ModEss] Acceder al panel de moderación]]></phrase>
+  <phrase title="permission.general_modess_manageReplyBans" addon_id="SV/ModeratorEssentials" version_id="2010000" version_string="2.1.0"><![CDATA[[ModEss] Gestionar prohibiciones de responder en temas]]></phrase>
+  <phrase title="permission.general_modess_manageTags" addon_id="SV/ModeratorEssentials" version_id="2000000" version_string="2.0.0"><![CDATA[[ModEss] Gestionar etiquetas]]></phrase>
+  <phrase title="permission.general_modess_revertEditHistory" addon_id="SV/ModeratorEssentials" version_id="2000000" version_string="2.0.0"><![CDATA[[ModEss] Puede revertir ediciones de mensajes]]></phrase>
+  <phrase title="permission.general_modess_seealldeleted" addon_id="SV/ModeratorEssentials" version_id="2000000" version_string="2.0.0"><![CDATA[[ModEss] Ver todos los mensajes eliminados de un usuario]]></phrase>
+  <phrase title="permission.general_modess_viewBannedUsers" addon_id="SV/ModeratorEssentials" version_id="2000000" version_string="2.0.0"><![CDATA[[ModEss] Ver usuarios expulsados]]></phrase>
+  <phrase title="sv_modess_actions.activated" addon_id="SV/ModeratorEssentials" version_id="2021400" version_string="2.2.14"><![CDATA[Banner de respuesta del tema activado]]></phrase>
+  <phrase title="sv_modess_actions.approve" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Aprobar]]></phrase>
+  <phrase title="sv_modess_actions.convert_to_conversation" addon_id="SV/ModeratorEssentials" version_id="2020400" version_string="2.2.4"><![CDATA[Mensaje convertido en conversación]]></phrase>
+  <phrase title="sv_modess_actions.custom_fields_edit" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Edición de campos personalizados]]></phrase>
+  <phrase title="sv_modess_actions.deactivated" addon_id="SV/ModeratorEssentials" version_id="2021400" version_string="2.2.14"><![CDATA[Banner de respuesta del tema desactivado]]></phrase>
+  <phrase title="sv_modess_actions.delete_hard" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Eliminación definitiva]]></phrase>
+  <phrase title="sv_modess_actions.delete_soft" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Eliminar]]></phrase>
+  <phrase title="sv_modess_actions.edit" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Editar]]></phrase>
+  <phrase title="sv_modess_actions.feature" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Destacar]]></phrase>
+  <phrase title="sv_modess_actions.lock" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Bloquear]]></phrase>
+  <phrase title="sv_modess_actions.merge_target" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Fusionar]]></phrase>
+  <phrase title="sv_modess_actions.move" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Mover]]></phrase>
+  <phrase title="sv_modess_actions.poll_add" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Añadir encuesta]]></phrase>
+  <phrase title="sv_modess_actions.poll_create" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Crear encuesta]]></phrase>
+  <phrase title="sv_modess_actions.poll_delete" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Eliminar encuesta]]></phrase>
+  <phrase title="sv_modess_actions.poll_edit" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Editar encuesta]]></phrase>
+  <phrase title="sv_modess_actions.post_copy_source" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Copiar mensaje (origen)]]></phrase>
+  <phrase title="sv_modess_actions.post_copy_target" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Copiar mensaje (destino)]]></phrase>
+  <phrase title="sv_modess_actions.post_copy_target_existing" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Copiar mensaje (destino existente)]]></phrase>
+  <phrase title="sv_modess_actions.post_move_source" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Mover mensaje (origen)]]></phrase>
+  <phrase title="sv_modess_actions.post_move_target" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Mover mensaje (destino)]]></phrase>
+  <phrase title="sv_modess_actions.post_move_target_existing" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Mover mensaje (destino existente)]]></phrase>
+  <phrase title="sv_modess_actions.prefix" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Editar prefijo]]></phrase>
+  <phrase title="sv_modess_actions.rating_delete_hard" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Eliminación definitiva de valoración]]></phrase>
+  <phrase title="sv_modess_actions.rating_delete_response" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Eliminar respuesta de valoración]]></phrase>
+  <phrase title="sv_modess_actions.rating_delete_soft" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Eliminar valoración]]></phrase>
+  <phrase title="sv_modess_actions.rating_undelete" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Restaurar valoración]]></phrase>
+  <phrase title="sv_modess_actions.rating_warning_given" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Advertencia por valoración aplicada]]></phrase>
+  <phrase title="sv_modess_actions.rating_warning_removed" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Advertencia por valoración retirada]]></phrase>
+  <phrase title="sv_modess_actions.reassign" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Reasignar]]></phrase>
+  <phrase title="sv_modess_actions.reply_ban" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Prohibición de responder]]></phrase>
+  <phrase title="sv_modess_actions.reply_ban_delete" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Eliminar prohibición de responder]]></phrase>
+  <phrase title="sv_modess_actions.stick" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Fijar]]></phrase>
+  <phrase title="sv_modess_actions.thread_reply_banner_edit" addon_id="SV/ModeratorEssentials" version_id="2021400" version_string="2.2.14"><![CDATA[Banner de respuesta del tema editado]]></phrase>
+  <phrase title="sv_modess_actions.title" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Editar título]]></phrase>
+  <phrase title="sv_modess_actions.unapprove" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Desaprobar]]></phrase>
+  <phrase title="sv_modess_actions.undelete" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Restaurar]]></phrase>
+  <phrase title="sv_modess_actions.unfeature" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Quitar destacado]]></phrase>
+  <phrase title="sv_modess_actions.unlock" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Desbloquear]]></phrase>
+  <phrase title="sv_modess_actions.unstick" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Desfijar]]></phrase>
+  <phrase title="sv_modess_actions.warning_expired" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Advertencia expirada]]></phrase>
+  <phrase title="sv_modess_actions.warning_given" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Advertencia aplicada]]></phrase>
+  <phrase title="sv_modess_actions.warning_removed" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Advertencia retirada]]></phrase>
+  <phrase title="sv_modess_add_tags" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Add tags]]></phrase>
+  <phrase title="sv_modess_all_excluding_self" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[All, excluding self]]></phrase>
+  <phrase title="sv_modess_checked" addon_id="SV/ModeratorEssentials" version_id="2000012" version_string="2.0.0 Alpha 2"><![CDATA[Checked]]></phrase>
+  <phrase title="sv_modess_control_panel" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Control panel]]></phrase>
+  <phrase title="sv_modess_convert" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Convert]]></phrase>
+  <phrase title="sv_modess_convert_posts_to_conversation" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Convert posts to conversation]]></phrase>
+  <phrase title="sv_modess_create_notes" addon_id="SV/ModeratorEssentials" version_id="2000012" version_string="2.0.0 Alpha 2"><![CDATA[Create notes]]></phrase>
+  <phrase title="sv_modess_deleted_placeholder_show_default_avatar" addon_id="SV/ModeratorEssentials" version_id="2050300" version_string="2.5.3"><![CDATA[Show default avatar]]></phrase>
+  <phrase title="sv_modess_deleted_placeholder_show_no_avatar" addon_id="SV/ModeratorEssentials" version_id="2050300" version_string="2.5.3"><![CDATA[Show no avatar]]></phrase>
+  <phrase title="sv_modess_deleted_placeholder_show_user_avatar" addon_id="SV/ModeratorEssentials" version_id="2050300" version_string="2.5.3"><![CDATA[Show user's avatar]]></phrase>
+  <phrase title="sv_modess_deleted_posts" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Deleted posts]]></phrase>
+  <phrase title="sv_modess_for_admins_only" addon_id="SV/ModeratorEssentials" version_id="2000012" version_string="2.0.0 Alpha 2"><![CDATA[For admins only]]></phrase>
+  <phrase title="sv_modess_inline_moderation_add_tags" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Inline moderation - Add tags]]></phrase>
+  <phrase title="sv_modess_inline_moderation_convert_post_message_explain" addon_id="SV/ModeratorEssentials" version_id="2000012" version_string="2.0.0 Alpha 2"><![CDATA[If provided, this message will be added to the conversation and you will be added as a participant in the conversation.]]></phrase>
+  <phrase title="sv_modess_inline_moderation_convert_posts_to_conversation" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Inline moderation - Convert posts to conversation]]></phrase>
+  <phrase title="sv_modess_last_log_update" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Last log update]]></phrase>
+  <phrase title="sv_modess_log_filters" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Log filters]]></phrase>
+  <phrase title="sv_modess_manage_tags" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Manage tags]]></phrase>
+  <phrase title="sv_modess_moderator_control_panel" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Moderator control panel]]></phrase>
+  <phrase title="sv_modess_no_moderators_for_this_forum_were_found" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[No moderators for this forum were found.]]></phrase>
+  <phrase title="sv_modess_no_unread_items_view_recent" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[You have no unread items. You may <a href="{link}">view recent items</a> instead.
+]]></phrase>
+  <phrase title="sv_modess_notes" addon_id="SV/ModeratorEssentials" version_id="2000012" version_string="2.0.0 Alpha 2"><![CDATA[Notes]]></phrase>
+  <phrase title="sv_modess_please_enter_a_valid_time_period" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Please enter a valid time period.]]></phrase>
+  <phrase title="sv_modess_please_select_a_valid_warning_type" addon_id="SV/ModeratorEssentials" version_id="2000012" version_string="2.0.0 Alpha 2"><![CDATA[Please select a valid warning type.]]></phrase>
+  <phrase title="sv_modess_please_select_posts_by_at_least_two_different_users" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Please select posts by at least two different users.]]></phrase>
+  <phrase title="sv_modess_posts_moved_from_x" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Posts moved from: {title}]]></phrase>
+  <phrase title="sv_modess_revert_edits_since" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Revert edits since]]></phrase>
+  <phrase title="sv_modess_revert_edits_until" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Revert edits until]]></phrase>
+  <phrase title="sv_modess_revert_warning_note" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[This warning was applied when the member's message edits were reverted.]]></phrase>
+  <phrase title="sv_modess_selected_actions" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Selected actions]]></phrase>
+  <phrase title="sv_modess_the_requested_search_was_not_found" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[The requested search was not found. Unread items are displayed instead.]]></phrase>
+  <phrase title="sv_modess_the_selected_filters_will_be_used_by_default" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[The selected type and action filters will be used by default whenever you return. Other filter selections are not saved.]]></phrase>
+  <phrase title="sv_modess_thread_notes" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Thread notes]]></phrase>
+  <phrase title="sv_modess_thread_notes_disabled" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Thread notes are not enabled.]]></phrase>
+  <phrase title="sv_modess_thread_notes_message" addon_id="SV/ModeratorEssentials" version_id="2000012" version_string="2.0.0 Alpha 2"><![CDATA[{username} created notes for the thread [url={thread_link}][plain]{thread_title}[/plain][/url] by {thread_username}.
+]]></phrase>
+  <phrase title="sv_modess_thread_notes_title" addon_id="SV/ModeratorEssentials" version_id="2000012" version_string="2.0.0 Alpha 2"><![CDATA[Notes: '{thread_title}']]></phrase>
+  <phrase title="sv_modess_unchecked" addon_id="SV/ModeratorEssentials" version_id="2000012" version_string="2.0.0 Alpha 2"><![CDATA[Unchecked]]></phrase>
+  <phrase title="sv_modess_username" addon_id="SV/ModeratorEssentials" version_id="2021200" version_string="2.2.12"><![CDATA[Username]]></phrase>
+  <phrase title="sv_modess_username_desc" addon_id="SV/ModeratorEssentials" version_id="2021200" version_string="2.2.12"><![CDATA[Username decending]]></phrase>
+  <phrase title="sv_modess_view_deleted_posts" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[View deleted posts]]></phrase>
+  <phrase title="sv_modess_within" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Within]]></phrase>
+  <phrase title="sv_modess_x_does_not_have_any_deleted_posts" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[{name} does not have any deleted posts.]]></phrase>
+  <phrase title="sv_modess_you_may_not_create_notes_for_this_thread" addon_id="SV/ModeratorEssentials" version_id="2000012" version_string="2.0.0 Alpha 2"><![CDATA[You may not create notes for this thread.]]></phrase>
+  <phrase title="sv_modess_you_sure_you_want_to_add_tags_x_threads" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Are you sure you want to add the tags specified below to the {count} selected threads?]]></phrase>
+  <phrase title="sv_modess_you_sure_you_want_to_convert_x_posts_into_a_conversation" addon_id="SV/ModeratorEssentials" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Are you sure you want to convert {count} posts into a conversation?]]></phrase>
+  <phrase title="thread_type.sv_thread_notes" addon_id="SV/ModeratorEssentials" version_id="2050001" version_string="2.5.0"><![CDATA[Thread Notes]]></phrase>
+  <phrase title="thread_type_plural.sv_thread_notes" addon_id="SV/ModeratorEssentials" version_id="2050001" version_string="2.5.0"><![CDATA[Thread Notes]]></phrase>
+</language>
