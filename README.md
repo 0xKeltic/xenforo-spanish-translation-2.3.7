@@ -1,4 +1,4 @@
-# xenforo-spanish-translation
+# xenforo-spanish-translation-2.3.7
 
 Traducción al español (ES) para XenForo versión 2.3.7.
 
