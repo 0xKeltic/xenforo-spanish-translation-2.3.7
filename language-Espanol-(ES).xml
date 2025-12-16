@@ -7287,7 +7287,7 @@ Si se recomienda una actualización por CLI, se te dará la oportunidad de usarl
   <phrase title="optimize_profile_banners" addon_id="XF" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Optimizar rótulos de perfil]]></phrase>
   <phrase title="optimizing" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Optimizando]]></phrase>
   <phrase title="option.acpSearchExclude" addon_id="XF" version_id="2020870" version_string="2.2.8"><![CDATA[Búsqueda rápida para tipos de contenido]]></phrase>
-  <phrase title="option.activityLogLength" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Activity log length]]></phrase>
+  <phrase title="option.activityLogLength" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Duración del registro de actividad]]></phrase>
   <phrase title="option.activitySummaryEmail" addon_id="XF" version_id="2020870" version_string="2.2.8"><![CDATA[Activar email de resumen de actividad]]></phrase>
   <phrase title="option.activitySummaryEmailBatchLimit" addon_id="XF" version_id="2020870" version_string="2.2.8"><![CDATA[Limite de lotes de email de resumen de actividad]]></phrase>
   <phrase title="option.addBanUserGroup" addon_id="XF" version_id="2020870" version_string="2.2.8"><![CDATA[Añadir grupo de usuario a la censura]]></phrase>
@@ -7308,7 +7308,7 @@ Si se recomienda una actualización por CLI, se te dará la oportunidad de usarl
   <phrase title="option.attachmentMaxPerMessage" addon_id="XF" version_id="2020870" version_string="2.2.8"><![CDATA[Archivos adjuntos máximos por mensaje]]></phrase>
   <phrase title="option.attachmentThumbnailDimensions" addon_id="XF" version_id="2020870" version_string="2.2.8"><![CDATA[Dimensiones de la miniatura de archivo adjunto]]></phrase>
   <phrase title="option.autoEmbedMedia" addon_id="XF" version_id="2020870" version_string="2.2.8"><![CDATA[Insertar automáticamente enlaces multimedia]]></phrase>
-  <phrase title="option.blueskyShare" addon_id="XF" version_id="2030570" version_string="2.3.5"><![CDATA[Enable Bluesky share button]]></phrase>
+  <phrase title="option.blueskyShare" addon_id="XF" version_id="2030570" version_string="2.3.5"><![CDATA[Habilitar botón de compartir en Bluesky]]></phrase>
   <phrase title="option.boardActive" addon_id="XF" version_id="2020870" version_string="2.2.8"><![CDATA[El foro está activo]]></phrase>
   <phrase title="option.boardDescription" addon_id="XF" version_id="2020870" version_string="2.2.8"><![CDATA[Descripción meta del foro]]></phrase>
   <phrase title="option.boardInactiveMessage" addon_id="XF" version_id="2020870" version_string="2.2.8"><![CDATA[Mensaje de foro inactivo]]></phrase>
@@ -8667,9 +8667,9 @@ Desactivar todos los correos: {unsub_all}]]></phrase>
   <phrase title="rebuild_caches" addon_id="XF" version_id="2020870" version_string="2.2.8"><![CDATA[Reconstruir cachés]]></phrase>
   <phrase title="rebuild_daily_statistics" addon_id="XF" version_id="2020870" version_string="2.2.8"><![CDATA[Reconstruir estadísticas diarias]]></phrase>
   <phrase title="rebuild_direct_message_embed_metadata" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Reconstruir metadatos incrustados de mensajes directos]]></phrase>
-  <phrase title="rebuild_direct_messages" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Rebuild direct messages]]></phrase>
+  <phrase title="rebuild_direct_messages" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Reconstruir mensajes directos]]></phrase>
   <phrase title="rebuild_forums" addon_id="XF" version_id="2020870" version_string="2.2.8"><![CDATA[Reconstruir foros]]></phrase>
-  <phrase title="rebuild_icon_usage" addon_id="XF" version_id="2030032" version_string="2.3.0 Beta 2"><![CDATA[Rebuild icon usage]]></phrase>
+  <phrase title="rebuild_icon_usage" addon_id="XF" version_id="2030032" version_string="2.3.0 Beta 2"><![CDATA[Reconstruir uso de iconos]]></phrase>
   <phrase title="rebuild_likes_counted_status" addon_id="XF" version_id="2020870" version_string="2.2.8"><![CDATA[Reconstruir el estado del contador de 'Me Gusta']]></phrase>
   <phrase title="rebuild_now" addon_id="XF" version_id="2020870" version_string="2.2.8"><![CDATA[Reconstruir ahora]]></phrase>
   <phrase title="rebuild_poll_information" addon_id="XF" version_id="2020870" version_string="2.2.8"><![CDATA[Reconstruir información de encuesta]]></phrase>
