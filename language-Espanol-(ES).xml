@@ -264,13 +264,13 @@
   <phrase title="admin_navigation.forceAgreementTerms" addon_id="XF" version_id="2020870" version_string="2.2.8"><![CDATA[Forzar el acuerdo de los términos y reglas]]></phrase>
   <phrase title="admin_navigation.forumNodePermissions" addon_id="XF" version_id="2020870" version_string="2.2.8"><![CDATA[Permisos de nodo]]></phrase>
   <phrase title="admin_navigation.forums" addon_id="XF" version_id="2020870" version_string="2.2.8"><![CDATA[Foros]]></phrase>
-  <phrase title="admin_navigation.groupsAndPermissions" addon_id="XF" version_id="2020870" version_string="2.2.8"><![CDATA[Grupos &amp; permisos]]></phrase>
+  <phrase title="admin_navigation.groupsAndPermissions" addon_id="XF" version_id="2020870" version_string="2.2.8"><![CDATA[Grupos y permisos]]></phrase>
   <phrase title="admin_navigation.help" addon_id="XF" version_id="2020870" version_string="2.2.8"><![CDATA[Ayuda]]></phrase>
   <phrase title="admin_navigation.helpPages" addon_id="XF" version_id="2020870" version_string="2.2.8"><![CDATA[Páginas de ayuda]]></phrase>
   <phrase title="admin_navigation.imageProxyLog" addon_id="XF" version_id="2020870" version_string="2.2.8"><![CDATA[Registro del proxy de imágenes]]></phrase>
   <phrase title="admin_navigation.importData" addon_id="XF" version_id="2020870" version_string="2.2.8"><![CDATA[Importar datos]]></phrase>
   <phrase title="admin_navigation.languages" addon_id="XF" version_id="2020870" version_string="2.2.8"><![CDATA[Idiomas]]></phrase>
-  <phrase title="admin_navigation.languagesAndPhrases" addon_id="XF" version_id="2020870" version_string="2.2.8"><![CDATA[Idiomas &amp; frases]]></phrase>
+  <phrase title="admin_navigation.languagesAndPhrases" addon_id="XF" version_id="2020870" version_string="2.2.8"><![CDATA[Idiomas y frases]]></phrase>
   <phrase title="admin_navigation.linkProxyLog" addon_id="XF" version_id="2020870" version_string="2.2.8"><![CDATA[Registro del proxy de enlaces]]></phrase>
   <phrase title="admin_navigation.listAddOns" addon_id="XF" version_id="2020870" version_string="2.2.8"><![CDATA[Complementos]]></phrase>
   <phrase title="admin_navigation.listAllUsers" addon_id="XF" version_id="2020870" version_string="2.2.8"><![CDATA[Listar todos los usuarios]]></phrase>
@@ -322,7 +322,7 @@
   <phrase title="admin_navigation.stats" addon_id="XF" version_id="2020870" version_string="2.2.8"><![CDATA[Estadísticas]]></phrase>
   <phrase title="admin_navigation.styleProperties" addon_id="XF" version_id="2020870" version_string="2.2.8"><![CDATA[Propiedades del estilo]]></phrase>
   <phrase title="admin_navigation.styles" addon_id="XF" version_id="2020870" version_string="2.2.8"><![CDATA[Estilos]]></phrase>
-  <phrase title="admin_navigation.stylesAndTemplates" addon_id="XF" version_id="2020870" version_string="2.2.8"><![CDATA[Estilos &amp; plantillas]]></phrase>
+  <phrase title="admin_navigation.stylesAndTemplates" addon_id="XF" version_id="2020870" version_string="2.2.8"><![CDATA[Estilos y plantillas]]></phrase>
   <phrase title="admin_navigation.tags" addon_id="XF" version_id="2020870" version_string="2.2.8"><![CDATA[Etiquetas]]></phrase>
   <phrase title="admin_navigation.templateModifications" addon_id="XF" version_id="2020870" version_string="2.2.8"><![CDATA[Modificaciones de plantilla]]></phrase>
   <phrase title="admin_navigation.templates" addon_id="XF" version_id="2020870" version_string="2.2.8"><![CDATA[Plantillas]]></phrase>
@@ -6113,7 +6113,7 @@ Para saber más sobre las cookies y encontrar más información sobre cómo bloq
   <phrase title="if_enabled_user_title_hidden_when_banner_shown" addon_id="XF" version_id="2020870" version_string="2.2.8"><![CDATA[Si se activa, en las situaciones en que se muestra el título de usuario con un rotulo, el título del usuario se ocultará, siempre y cuando el rotulo pueda mostrarse. Los títulos personalizados por el usuario nunca se ocultan.]]></phrase>
   <phrase title="if_enabled_users_will_be_able_to_vote_on_answers_given_to_questions" addon_id="XF" version_id="2020870" version_string="2.2.8"><![CDATA[Si se activa, los usuarios serán capaces de votar en las respuestas dadas a las preguntas.]]></phrase>
   <phrase title="if_entered_project_honey_pot_http_blacklist_checked" addon_id="XF" version_id="2020870" version_string="2.2.8"><![CDATA[Si se introduce, se comprobará también la lista negra HTTP de <a href="https://www.projecthoneypot.org/index.php" target="_blank">Proyecto Honey Pot</a>.]]></phrase>
-  <phrase title="if_entered_url_to_node_not_contain_id_change_breaks_urls" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[If entered, the URL to this node will not contain an ID. Use a-z, 0-9, _, and - characters only. Note that once specified, changing this value will cause URLs to be broken.]]></phrase>
+  <phrase title="if_entered_url_to_node_not_contain_id_change_breaks_urls" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Si se introduce, la URL de este nodo no contendrá una ID. Usa solo caracteres a-z, 0-9, _ y -. Ten en cuenta que, una vez especificado, cambiar este valor hará que las URL dejen de funcionar.]]></phrase>
   <phrase title="if_forgotten_your_password_use_form_to_reset" addon_id="XF" version_id="2020870" version_string="2.2.8"><![CDATA[Si has olvidado la contraseña, puedes utilizar este formulario para restablecerla. Recibirás un email con instrucciones.]]></phrase>
   <phrase title="if_provide_example_bb_code_appear_on_bb_code_help_page" addon_id="XF" version_id="2020870" version_string="2.2.8"><![CDATA[Si proporcionas un ejemplo, aparecerá este código BB en la página de ayuda de códigos BB.]]></phrase>
   <phrase title="if_provided_bb_code_replace_html_email_desc" addon_id="XF" version_id="2020870" version_string="2.2.8"><![CDATA[Si se proporciona, esto anulará el reemplazo HTML al ser generado para un email HTML. Si se deja vacío, se utilizará el reemplazo predeterminado de HTML.]]></phrase>
@@ -7281,11 +7281,11 @@ Si se recomienda una actualización por CLI, se te dará la oportunidad de usarl
   <phrase title="openssl_php_extension_required_tls_or_ssl_encryption" addon_id="XF" version_id="2020870" version_string="2.2.8"><![CDATA[Se necesita la extensión PHP <a href="https://www.php.net/manual/es/book.openssl.php" target="_blank"><code>openssl</code></a>para utilizar la encriptación t TLS o SSL.]]></phrase>
   <phrase title="openssl_version" addon_id="XF" version_id="2020870" version_string="2.2.8"><![CDATA[Versión OpenSSL]]></phrase>
   <phrase title="optgroup_tags_cannot_be_nested" addon_id="XF" version_id="2020870" version_string="2.2.8"><![CDATA[Las etiquetas de Optgroup no pueden anidarse.]]></phrase>
-  <phrase title="optimize_attachments" addon_id="XF" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Optimize attachments]]></phrase>
-  <phrase title="optimize_avatars" addon_id="XF" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Optimize avatars]]></phrase>
-  <phrase title="optimize_images" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Optimize images]]></phrase>
-  <phrase title="optimize_profile_banners" addon_id="XF" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Optimize profile banners]]></phrase>
-  <phrase title="optimizing" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Optimizing]]></phrase>
+  <phrase title="optimize_attachments" addon_id="XF" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Optimizar archivos adjuntos]]></phrase>
+  <phrase title="optimize_avatars" addon_id="XF" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Optimizar avatares]]></phrase>
+  <phrase title="optimize_images" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Optimizar imágenes]]></phrase>
+  <phrase title="optimize_profile_banners" addon_id="XF" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Optimizar rótulos de perfil]]></phrase>
+  <phrase title="optimizing" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Optimizando]]></phrase>
   <phrase title="option.acpSearchExclude" addon_id="XF" version_id="2020870" version_string="2.2.8"><![CDATA[Búsqueda rápida para tipos de contenido]]></phrase>
   <phrase title="option.activityLogLength" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Activity log length]]></phrase>
   <phrase title="option.activitySummaryEmail" addon_id="XF" version_id="2020870" version_string="2.2.8"><![CDATA[Activar email de resumen de actividad]]></phrase>
